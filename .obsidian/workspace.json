@@ -195,8 +195,12 @@
             "id": "5ac6c3fe210fc82d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Arquitectura cluster.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -258,6 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Arquitectura/Arquitectura cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

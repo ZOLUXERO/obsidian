@@ -11,11 +11,24 @@
             "id": "8bf1c69d640bcce4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95485aede7613956",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,17 +111,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8bf1c69d640bcce4",
+  "active": "95485aede7613956",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes.md",
-    "Untitled.md",
-    "Kubernetes/Ejemplos yml/DEPLOYMENT YML.md",
-    "Kubernetes/Comandos/Kubectl Comandos.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "Devops.md",
+    "Redes/Servidor.md",
     "Redes/Cliente.md",
     "Redes/IP Address.md",
-    "Redes/MacAddress.md",
-    "Redes/Network.md"
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Comandos/Kubectl Comandos.md",
+    "Kubernetes/Ejemplos yml/DEPLOYMENT YML.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Redes/MacAddress.md"
   ]
 }

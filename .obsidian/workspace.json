@@ -58,9 +58,81 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0ab761daaa12b6e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Arquitectura cluster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c57241b439f29c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Woker Nodes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40adcebe249785b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Master Nodes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de37f6d6373d9ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Control playing components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a05539605007342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/etcd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3adc85e1273ce9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Arquitectura/Control playing components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -118,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Arquitectura/Control playing components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,17 +216,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e2f4a2abbe8fcb57",
+  "active": "3adc85e1273ce9c1",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Kube-Scheduler.md",
+    "Kubernetes/Arquitectura/etcd.md",
+    "Kubernetes/Arquitectura/Control playing components.md",
+    "Kubernetes/Arquitectura/Master Nodes.md",
+    "Kubernetes/Arquitectura/Arquitectura cluster.md",
+    "Kubernetes/Arquitectura/Woker Nodes.md",
     "Kubernetes/Core concepts yml/Nodos.md",
     "Kubernetes/Kubernetes.md",
     "Redes/NIC.md",
-    "Kubernetes/Core concepts yml/Replica Set.md",
-    "Kubernetes/Core concepts yml/Replica Controller.md",
-    "Devops.md",
-    "Redes/Redes.md",
-    "Redes/Cliente.md",
-    "Redes/IP Address.md",
-    "Redes/Network.md"
+    "Kubernetes/Core concepts yml/Replica Set.md"
   ]
 }

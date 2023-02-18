@@ -6,4 +6,4 @@ el cliente se comunica con el [[Servidor]] para generar una arquitectura llamada
 **ej:**
 google como servicio tiene la misma aplicacion en diferentes servidores para manejar grandes cargas de usuarios
 
-un cliente tiene un [[NIC]] y una [[IP Address]]
+un cliente tiene un [[NIC (Network interface controller)]] y una [[IP Address]]

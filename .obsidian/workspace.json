@@ -4,203 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "512f4aa867ef724c",
+        "id": "c9fb6ed22efc33cd",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf1c69d640bcce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95485aede7613956",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d68afd936a9c9a94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "53702bb15f562b5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5365f2517f50bab7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2f4a2abbe8fcb57",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ab761daaa12b6e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Arquitectura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c57241b439f29c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Woker Nodes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40adcebe249785b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Master Nodes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de37f6d6373d9ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Control plane components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a05539605007342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/etcd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3adc85e1273ce9c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Kube-Scheduler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc9022f45ced247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Controller Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62ba92ff6cbb26ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Node-controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36df5526b1825c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Replica-Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9ea45faad96ff2f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5afc40231cc95d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f76ef5013bd4e19e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ac6c3fe210fc82d",
+            "id": "7c3257745a023acf",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,17 +98,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5ac6c3fe210fc82d",
+  "active": "7c3257745a023acf",
   "lastOpenFiles": [
     "Kubernetes/Kubernetes.md",
+    "Kubernetes/Arquitectura/Control plane components.md",
+    "Kubernetes/Arquitectura/etcd.md",
+    "Kubernetes/Arquitectura/Kube-Scheduler.md",
+    "Kubernetes/Arquitectura/Controller Manager.md",
+    "Kubernetes/Arquitectura/Node-controller.md",
+    "Kubernetes/Arquitectura/Replica-Controller.md",
     "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Woker Nodes.md",
-    "Kubernetes/Arquitectura/Contenedores.md",
-    "Kubernetes/Arquitectura/etcd.md",
-    "Kubernetes/Arquitectura/Kube-apiserver.md",
-    "Kubernetes/Arquitectura/Kube-proxy.md",
-    "Kubernetes/Arquitectura/Master Nodes.md",
-    "Kubernetes/Arquitectura/Control plane components.md",
-    "Kubernetes/Arquitectura/Controller Manager.md"
+    "Kubernetes/Arquitectura/Contenedores.md"
   ]
 }

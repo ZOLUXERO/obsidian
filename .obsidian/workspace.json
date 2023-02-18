@@ -174,9 +174,25 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d5afc40231cc95d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f76ef5013bd4e19e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -259,17 +275,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9ea45faad96ff2f",
+  "active": "f76ef5013bd4e19e",
   "lastOpenFiles": [
-    "Kubernetes/Arquitectura/Arquitectura cluster.md",
     "Kubernetes/Arquitectura/Control plane components.md",
+    "Kubernetes/Arquitectura/Kube-proxy.md",
     "Kubernetes/Arquitectura/Kube-apiserver.md",
+    "Kubernetes/Arquitectura/kubelet.md",
+    "Kubernetes/Arquitectura/Arquitectura cluster.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Replica-Controller.md",
     "Kubernetes/Arquitectura/Node-controller.md",
     "Kubernetes/Arquitectura/Controller Manager.md",
-    "Kubernetes/Arquitectura/etcd.md",
-    "Kubernetes/Arquitectura/Master Nodes.md",
-    "Kubernetes/Arquitectura/Woker Nodes.md"
+    "Kubernetes/Arquitectura/etcd.md"
   ]
 }

@@ -11,12 +11,8 @@
             "id": "1dea1f60d3f2627a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/etcd.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/etcd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +100,10 @@
   },
   "active": "1dea1f60d3f2627a",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/etcd.md",
     "Kubernetes/Kubernetes.md",
     "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Control plane components.md",
-    "Kubernetes/Arquitectura/etcd.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Node-controller.md",

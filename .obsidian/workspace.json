@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Arquitectura/Control playing components.md",
+                "file": "Kubernetes/Arquitectura/Control plane components.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Arquitectura/Control playing components.md",
+                "file": "Kubernetes/Arquitectura/Kube-Scheduler.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/Control playing components.md",
+                "file": "Kubernetes/Arquitectura/Kube-Scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,9 +218,9 @@
   },
   "active": "3adc85e1273ce9c1",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/etcd.md",
-    "Kubernetes/Arquitectura/Control playing components.md",
     "Kubernetes/Arquitectura/Master Nodes.md",
     "Kubernetes/Arquitectura/Arquitectura cluster.md",
     "Kubernetes/Arquitectura/Woker Nodes.md",

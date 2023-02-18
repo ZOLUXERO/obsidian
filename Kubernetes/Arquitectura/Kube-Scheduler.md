@@ -1,0 +1,1 @@
+identifica el nodo correcto para colocar un contenedor enbase a los requisitos de recursos de los contenedores, la capacidad de los nodos trabajadores o cualquier otra política o restricción, como manchas y tolerancias o reglas de afinidad entre otros nodos.

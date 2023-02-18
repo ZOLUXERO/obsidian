@@ -5,4 +5,4 @@ el servidor se comunica con el [[Cliente]] para generar una arquitectura llamada
 
 Un servidor va a escuchar diferentes [[Puertos]] para comunicarse con diferentes [[Protocolos]]
 
-Tanto el cliente como el servidor tienen un [[NIC (Network interface controller)]] y una [[IP Address]] que es lo que los identifica en una red
+Tanto el cliente como el servidor tienen un [[NIC]] y una [[IP Address]] que es lo que los identifica en una red

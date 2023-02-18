@@ -195,12 +195,8 @@
             "id": "5ac6c3fe210fc82d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Contenedores.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -262,7 +258,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/Contenedores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +285,15 @@
   },
   "active": "5ac6c3fe210fc82d",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Woker Nodes.md",
+    "Kubernetes/Arquitectura/Contenedores.md",
     "Kubernetes/Arquitectura/etcd.md",
     "Kubernetes/Arquitectura/Kube-apiserver.md",
     "Kubernetes/Arquitectura/Kube-proxy.md",
-    "Kubernetes/Arquitectura/Woker Nodes.md",
     "Kubernetes/Arquitectura/Master Nodes.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Arquitectura cluster.md",
     "Kubernetes/Arquitectura/Controller Manager.md",
-    "Kubernetes/Arquitectura/kubelet.md",
-    "Kubernetes/Arquitectura/Kube-Scheduler.md"
+    "Kubernetes/Arquitectura/kubelet.md"
   ]
 }

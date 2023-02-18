@@ -1,4 +1,4 @@
-Hostea aplicaciones como contenedores
+Hostea aplicaciones como [[Contenedores]]
 
 para poder entablar comunicacion con los master nodes los worker nodes utilizan [[kubelet]] estos se encargan de entablar dicha comunicacion.
 

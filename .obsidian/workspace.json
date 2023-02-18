@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/KUBERNETES.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5365f2517f50bab7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,17 +135,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "53702bb15f562b5d",
+  "active": "5365f2517f50bab7",
   "lastOpenFiles": [
-    "Kubernetes/KUBERNETES.md",
-    "Redes/NIC (Network interface controller).md",
-    "Kubernetes/Core concepts yml/NameSpace.md",
+    "Devops.md",
+    "Redes/Redes.md",
+    "Redes/Cliente.md",
+    "Redes/IP Address.md",
+    "Redes/Network.md",
     "Kubernetes/Core concepts yml/Deployment.md",
+    "Kubernetes/Core concepts yml/NameSpace.md",
     "Kubernetes/Core concepts yml/Pods.md",
     "Kubernetes/Core concepts yml/Replica Controller.md",
-    "Kubernetes/Core concepts yml/Replica Set.md",
-    "Kubernetes/Core concepts yml/Service.md",
-    "Devops.md",
-    "Redes/Servidor.md"
+    "Kubernetes/Core concepts yml/Replica Set.md"
   ]
 }

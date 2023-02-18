@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a895e99834e1e6f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3effcead6281dacf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Redes/MacAddress.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf4c0cef844403ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fba5bc29a11f382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947e902a51cf824d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "897904e49a143604",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "733db07cedf567ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3dd0655df71f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a2777d88c81f3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes/MacAddress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3effcead6281dacf",
+  "lastOpenFiles": [
+    "Redes/MacAddress.md",
+    "Redes/IP Address.md",
+    "Redes/Cliente.md",
+    "Redes/Puertos.md",
+    "Redes/Servidor.md",
+    "Redes/Protocolos.md",
+    "Redes/NIC.md",
+    "Redes/Network.md",
+    "Hypervisores.md",
+    "Docker.md"
+  ]
+}

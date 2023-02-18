@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Arquitectura/Arquitectura.md",
+                "file": "Kubernetes/Arquitectura/Kube-apiserver.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/Arquitectura.md",
+                "file": "Kubernetes/Arquitectura/Kube-apiserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,11 +118,11 @@
   },
   "active": "f172613e83e152f8",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Kubernetes/Arquitectura/Kube-apiserver.md",
     "Kubernetes/Kubernetes.md",
     "Kubernetes/Comandos/Kubectl.md",
-    "Kubernetes/Arquitectura/Kube-apiserver.md",
     "Kubernetes/Arquitectura/etcd.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Controller Manager.md",

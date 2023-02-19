@@ -2,9 +2,10 @@ Basicamente funciona como una base de datos que guarda informacion en formato `l
 - Simple
 - Seguro
 - Rapido
-etcd se pude manejar como una base de datos con comandos como set and get etc.
 
-cada comando que ud hace sea actualizar un nodo desplegar un pod, replica set etc, una vez es actualizado en el etcd server el cambio se considera completo.
+Etcd se pude manejar como una base de datos con comandos como set and get etc.
+
+Cada comando que ud hace sea actualizar un nodo, desplegar un pod, replica set etc, una vez es actualizado en el etcd cluster solo ahi el cambio se considera completo.
 
 ## ejemplo de algunos comandos para ectd v2 y v3:
 ### v2 

@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Comandos/Kubectl.md",
+                "file": "Kubernetes/Arquitectura/etcd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Comandos/Kubectl.md",
+                "file": "Kubernetes/Arquitectura/Kube-apiserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +115,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f172613e83e152f8",
+  "active": "1dea1f60d3f2627a",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Arquitectura/Kube-apiserver.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
-    "Kubernetes/Comandos/Kubectl.md",
     "Kubernetes/Arquitectura/etcd.md",
+    "Kubernetes/Arquitectura/Kube-apiserver.md",
+    "Kubernetes/Comandos/Kubectl.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Controller Manager.md",

@@ -11,7 +11,7 @@
             "id": "f172613e83e152f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -100,8 +100,8 @@
   },
   "active": "f172613e83e152f8",
   "lastOpenFiles": [
-    "Kubernetes/Arquitectura/Woker Nodes.md",
     "python/Python.md",
+    "Kubernetes/Arquitectura/Woker Nodes.md",
     "python/iteracion.md",
     "Kubernetes/Arquitectura/Master Nodes.md",
     "Kubernetes/Arquitectura/kubelet.md",

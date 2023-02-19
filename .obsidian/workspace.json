@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "017f03bac8f882c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "f172613e83e152f8",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Arquitectura/Kube-apiserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "017f03bac8f882c9",
+  "active": "947e902a51cf824d",
   "lastOpenFiles": [
     "Kubernetes/Comandos/Kubeadmin.md",
     "Kubernetes/Kubernetes.md",

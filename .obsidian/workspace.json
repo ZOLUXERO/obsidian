@@ -117,14 +117,14 @@
   },
   "active": "1dea1f60d3f2627a",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Control plane components.md",
+    "Kubernetes/Arquitectura/Controller Manager.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Replica-Controller.md",
     "Kubernetes/Arquitectura/Node-controller.md",
-    "Kubernetes/Arquitectura/Kube-Scheduler.md",
-    "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Master Nodes.md",
-    "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Contenedores.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
     "Pasted image 20230218163558.png",
     "Pasted image 20230218163628.png"
   ]

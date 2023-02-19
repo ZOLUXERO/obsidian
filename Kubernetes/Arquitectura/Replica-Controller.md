@@ -1,1 +1,0 @@
-Se encarga de garantizar que el numero deseado de contenedores esten corriendo en todo momento en un grupo de replicacion.

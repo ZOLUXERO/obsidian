@@ -100,15 +100,15 @@
   },
   "active": "f172613e83e152f8",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Core concepts yml/Objetos.md",
-    "Kubernetes/Arquitectura/etcd.md",
-    "Kubernetes/Arquitectura/Kube-apiserver.md",
     "Kubernetes/Arquitectura/Kube-proxy.md",
-    "Kubernetes/Arquitectura/kubelet.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
+    "Kubernetes/Arquitectura/Kube-apiserver.md",
+    "Kubernetes/Arquitectura/Master Nodes.md",
+    "Kubernetes/Arquitectura/Woker Nodes.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Kubernetes/Arquitectura/Contenedores.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Controller Manager.md",
-    "Kubernetes/Arquitectura/Arquitectura.md"
+    "Kubernetes/Arquitectura/etcd.md"
   ]
 }

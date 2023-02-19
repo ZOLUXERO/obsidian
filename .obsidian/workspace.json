@@ -11,12 +11,8 @@
             "id": "1dea1f60d3f2627a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Arquitectura/Kube-proxy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -89,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/Kube-proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +112,8 @@
   },
   "active": "1dea1f60d3f2627a",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Kube-apiserver.md",
+    "Kubernetes/Arquitectura/Kube-proxy.md",
     "Kubernetes/Arquitectura/kubelet.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Control plane components.md",
@@ -124,8 +121,6 @@
     "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Replica-Controller.md",
     "Kubernetes/Arquitectura/Node-controller.md",
-    "Kubernetes/Arquitectura/Master Nodes.md",
-    "Kubernetes/Arquitectura/Contenedores.md",
-    "Pasted image 20230218163558.png"
+    "Kubernetes/Arquitectura/Master Nodes.md"
   ]
 }

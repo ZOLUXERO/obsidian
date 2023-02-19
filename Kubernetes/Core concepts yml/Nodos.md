@@ -1,6 +1,0 @@
-[[Deployment]]
-[[Pods]]
-[[NameSpace]]
-[[Replica Controller]]
-[[Replica Set]]
-[[Service]]

@@ -1,5 +1,5 @@
 Orquestacion de contenedores
-[[Nodos]]
+[[Objetos]]
 [[Arquitectura]]
 [[Kubectl]]
 [[Kubeadmin]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Arquitectura/kubelet.md",
+                "file": "Kubernetes/Arquitectura/Kube-proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Arquitectura/kubelet.md",
+                "file": "Kubernetes/Arquitectura/Kube-proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "1dea1f60d3f2627a",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/kubelet.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Controller Manager.md",
@@ -125,7 +126,6 @@
     "Kubernetes/Arquitectura/Node-controller.md",
     "Kubernetes/Arquitectura/Master Nodes.md",
     "Kubernetes/Arquitectura/Contenedores.md",
-    "Pasted image 20230218163558.png",
-    "Pasted image 20230218163628.png"
+    "Pasted image 20230218163558.png"
   ]
 }

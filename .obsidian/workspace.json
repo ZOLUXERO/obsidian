@@ -11,10 +11,8 @@
             "id": "f172613e83e152f8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230218233411.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230218233411.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +100,15 @@
   },
   "active": "f172613e83e152f8",
   "lastOpenFiles": [
-    "Pasted image 20230218232259.png",
-    "Pasted image 20230218231208.png",
-    "Pasted image 20230218225606.png",
-    "Pasted image 20230218224707.png",
-    "Pasted image 20230218185311.png",
-    "Pasted image 20230218182245.png",
-    "Pasted image 20230218175734.png",
-    "Pasted image 20230218175257.png",
-    "Pasted image 20230218174302.png",
-    "Pasted image 20230218163628.png"
+    "Kubernetes/Arquitectura/Woker Nodes.md",
+    "python/Python.md",
+    "python/iteracion.md",
+    "Kubernetes/Arquitectura/Master Nodes.md",
+    "Kubernetes/Arquitectura/kubelet.md",
+    "Kubernetes/Arquitectura/Kube-Scheduler.md",
+    "Kubernetes/Arquitectura/Kube-proxy.md",
+    "Kubernetes/Arquitectura/Kube-apiserver.md",
+    "Kubernetes/Arquitectura/etcd.md",
+    "Kubernetes/Arquitectura/Controller Manager.md"
   ]
 }

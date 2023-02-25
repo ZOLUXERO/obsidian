@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Cloud.md",
-                "collapseAll": false,
+                "file": "Cloud/Azure/Azure.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -142,9 +142,9 @@
   },
   "active": "5f00b4888c3a6a7d",
   "lastOpenFiles": [
+    "Cloud/Cloud.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
-    "Cloud/Cloud.md",
     "Infraestructura como codigo/Terraform/Terraform.md",
     "Devops.md",
     "Infraestructura como codigo/Infra as code.md",

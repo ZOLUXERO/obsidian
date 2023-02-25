@@ -13,3 +13,5 @@ Beneficios de cloud computing
 - Recuperación ante desastres
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia
+
+## Public cloud vs private cloud

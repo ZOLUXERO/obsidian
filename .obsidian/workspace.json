@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "559700a36f67be7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85edfef0dba9b4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3960b80b1622f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Iaas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71cac62096cea2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Paas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de3569c2ea4760c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -77,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +164,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "41826ab775ebb5dd",
+  "active": "5de3569c2ea4760c",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
     "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
-    "Infraestructura como codigo/Terraform/Terraform.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Saas.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Paas.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Iaas.md",
     "Cloud/Cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
-    "Devops.md",
-    "Infraestructura como codigo/Infra as code.md",
-    "Infraestructura como codigo/Ansible/Ansible.md"
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md"
   ]
 }

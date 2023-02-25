@@ -1,0 +1,5 @@
+[[Iaas]]
+[[Paas]]
+[[Serverless computing]]
+[[Saas]]
+[[Shared responsability]]

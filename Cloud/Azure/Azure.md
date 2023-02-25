@@ -22,5 +22,6 @@ Por que usar la nube?
 - Capacidad de computacion enorme
 - Se usa en demanda (en un par de minutos se puede escalar todo facilmente y rapido)
 
-
 La nube usa un modelo a base de consumo [[consumption-based model]]
+
+[[Servicios cloud]]

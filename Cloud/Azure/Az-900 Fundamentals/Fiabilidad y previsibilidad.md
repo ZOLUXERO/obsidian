@@ -10,3 +10,12 @@ Azure esta diseñado para fallar, es decir que podemos configurar azure para ten
 Se tiene que monitorear las propias aplicacion (Application insights - Azure)
 
 ### Previsivilidad
+Se puede saber cuales recursos son los que se van a utilizar o recursos que se estan utilizando en este momento
+
+Comportamientos 
+
+Usar templates para desplegar para que todo siempre despliegue de la misma manera asi sabemos como va a funcionar siempre
+
+Automatizacion
+
+Devops - Pipelines - CI/CD

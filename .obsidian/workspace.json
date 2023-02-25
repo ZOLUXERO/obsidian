@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
+                "file": "Cloud/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58656485518eca1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Regiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Regiones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +164,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4d038382f2be08b",
+  "active": "58656485518eca1e",
   "lastOpenFiles": [
     "Cloud/Azure/Azure.md",
-    "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
+    "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",

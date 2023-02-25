@@ -23,4 +23,4 @@ Por que usar la nube?
 - Se usa en demanda (en un par de minutos se puede escalar todo facilmente y rapido)
 
 
-Modelo a base de consumo [[consumption-based model]]
+La nube usa un modelo a base de consumo [[consumption-based model]]

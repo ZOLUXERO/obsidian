@@ -11,3 +11,5 @@ Beneficios de cloud computing
 - Elasticidad
 - Agilidad
 - Recuperación ante desastres
+
+Generalmente moverse a la nube es mas barato que mantener infraestructura propia

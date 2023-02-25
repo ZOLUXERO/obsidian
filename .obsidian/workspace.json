@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
+                "file": "Cloud/Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "733db07cedf567ca",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
+                "file": "Cloud/Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,11 +144,11 @@
   "lastOpenFiles": [
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
+    "Cloud/Cloud.md",
     "Infraestructura como codigo/Terraform/Terraform.md",
     "Devops.md",
     "Infraestructura como codigo/Infra as code.md",
     "Infraestructura como codigo/Ansible/Ansible.md",
-    "Cloud/Cloud.md",
     "Kubernetes/Comandos/Kubeadmin.md",
     "Cloud/Aws/Aws.md",
     "Untitled.md"

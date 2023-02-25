@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1203768f1f608bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,17 +224,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dedf050737ef74c1",
+  "active": "1203768f1f608bad",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
-    "Cloud/Cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md"
+    "Cloud/Cloud.md"
   ]
 }

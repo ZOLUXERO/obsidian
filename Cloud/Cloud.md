@@ -14,6 +14,24 @@ Beneficios de cloud computing
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia
 
-## Public cloud vs private cloud
+## Public cloud | Private cloud | Hybrid Cloud
 
-Azure es un ejemplo de public cloud
+### Public Cloud
+- Azure es un ejemplo de public cloud
+- La nube publica es OpEx
+- Se accede desde internet
+- Ilimitado
+- Muchas Regiones
+- Muchos Servicios (no estoy limitado por ejemplo a solo VMs)
+
+### Private Cloud
+- Tengo servidores fisicos
+- Necesita una infraestructura por encima que maneja la nube privada (MGMT)
+- La nube privada Es CapEx
+- Tengo toda la libertad de configurarla como quiera
+- Azure puede ser una nube privada (Azure Stack, Azure Arc)
+
+### Hybrid Cloud
+- Es una combinacion de ambas 
+- Digamos que ofresco cierto servicio desde mis servidores fisicos onpremise pero en tiempos donde la carga es alta utilizo los recursos de una nube publica
+

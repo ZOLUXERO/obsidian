@@ -1,1 +1,0 @@
-Regiones y pares de regiones

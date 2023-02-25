@@ -25,3 +25,4 @@ La nube usa un modelo a base de consumo [[consumption-based model]]
 
 [[Servicios cloud]]
 [[Fiabilidad y previsibilidad]]
+[[Arquitectura Azure]]

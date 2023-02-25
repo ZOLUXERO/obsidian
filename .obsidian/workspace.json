@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Regiones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c5764434821aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b0c5764434821aca",
+  "active": "58656485518eca1e",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Regiones.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Cloud.md",
@@ -186,7 +175,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md"
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md"
   ]
 }

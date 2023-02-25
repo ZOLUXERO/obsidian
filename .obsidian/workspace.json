@@ -95,12 +95,8 @@
             "id": "dedf050737ef74c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -198,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,9 +221,9 @@
   },
   "active": "dedf050737ef74c1",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
     "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",

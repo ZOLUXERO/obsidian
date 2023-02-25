@@ -20,3 +20,7 @@ Puede mover recursos entre diferentes grupos
 
 En el sigiuente ejemplo El NIC (Network interface card) se comunica con la VNET (Virtual Network) en otro grupo afuera del que pertenece
 ![[Pasted image 20230225163357.png]]
+
+Ejemplo de como se ve en azure
+
+![[Pasted image 20230225165112.png]]

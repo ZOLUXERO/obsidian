@@ -15,3 +15,5 @@ Beneficios de cloud computing
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia
 
 ## Public cloud vs private cloud
+
+Azure es un ejemplo de public cloud

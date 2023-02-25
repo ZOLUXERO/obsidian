@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,15 +142,15 @@
   },
   "active": "559700a36f67be7b",
   "lastOpenFiles": [
+    "Cloud/Cloud.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
-    "Cloud/Azure/Azure.md",
-    "Cloud/Cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md"
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md"
   ]
 }

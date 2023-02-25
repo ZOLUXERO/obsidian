@@ -1,5 +1,4 @@
 **az-900 -> az-104 -> az-400**
-[[Fundamentos AZ-900]]
 
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 

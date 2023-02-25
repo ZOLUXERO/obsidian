@@ -1,5 +1,7 @@
 **az-900 -> az-104 -> az-400**
 
+**USER GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) 
+
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 Para conectarse a la nube se usa internet las conexiones se pueden hacer por VPN, Express Route.

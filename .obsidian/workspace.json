@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
+                "file": "Cloud/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -224,16 +224,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1203768f1f608bad",
+  "active": "dedf050737ef74c1",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Cloud.md"
   ]

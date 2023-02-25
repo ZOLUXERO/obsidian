@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc383fd4e5993fac",
+        "id": "2c7b6f846c48cf2c",
         "type": "tabs",
         "children": [
           {
-            "id": "f172613e83e152f8",
+            "id": "41826ab775ebb5dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6926adc5650de373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f00b4888c3a6a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4107d6e7b092f6f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infraestructura como codigo/Terraform/Terraform.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5f00b4888c3a6a7d",
+  "active": "41826ab775ebb5dd",
   "lastOpenFiles": [
-    "Cloud/Cloud.md",
-    "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
     "Infraestructura como codigo/Terraform/Terraform.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Fundamentos AZ-900.md",
     "Devops.md",
     "Infraestructura como codigo/Infra as code.md",
-    "Infraestructura como codigo/Ansible/Ansible.md",
-    "Kubernetes/Comandos/Kubeadmin.md",
-    "Cloud/Aws/Aws.md",
-    "Untitled.md"
+    "Infraestructura como codigo/Ansible/Ansible.md"
   ]
 }

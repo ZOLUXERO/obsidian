@@ -23,24 +23,8 @@
             "id": "559700a36f67be7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427bfbe5283a4eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -68,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 440.5
   },
   "right": {
     "id": "733db07cedf567ca",
@@ -126,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +135,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "427bfbe5283a4eab",
+  "active": "559700a36f67be7b",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md"
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md"
   ]
 }

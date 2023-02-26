@@ -4,5 +4,5 @@ Componentes principales de Arquitectura de Azure
 [[Zonas de disponibilidad]]
 [[Grupos de recursos]]
 [[Subscripciones]]
-[[Grupos de gestion]]
+[[Grupos de Administracion]]
 [[Azure Resource Manager]]

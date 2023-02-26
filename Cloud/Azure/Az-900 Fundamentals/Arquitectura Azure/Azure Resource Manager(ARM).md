@@ -9,3 +9,5 @@ Azure Resource Manager (ARM): Es como terraform pero nativo de azure
 
 ![[Pasted image 20230226150921.png]]
 
+Como Sacar templates de un recurso ya creado: https://youtu.be/g4u0NL2-3XM?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3&t=459
+

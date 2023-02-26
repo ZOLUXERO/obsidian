@@ -11,6 +11,7 @@ La nube usa un modelo a base de consumo [[consumption-based model]]
 	[[Fiabilidad y previsibilidad]]
 	[[Arquitectura Azure]]
 	[[Azure Arc]] -> Agente que esta en un servicio externo para usar politicas y funcionalidades configuradas en Azure en otras plataformas pueden ser otras nubes, onPremise etc.
+	[[Crear Recursos]]
 
 Para conectarse a la nube se usa internet las conexiones se pueden hacer por VPN, Express Route.
 

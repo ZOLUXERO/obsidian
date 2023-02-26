@@ -117,7 +117,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Maquinas virtuales(VMs).md",
+                "file": "Cloud/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ee54919a93feab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Maquinas virtuales(VMs).md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,16 +256,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c406975dd6cb7a63",
+  "active": "a8ee54919a93feab",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Crear Recursos.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
     "Pasted image 20230226160642.png",
     "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
-    "Cloud/Azure/Az-900 Fundamentals/Maquinas virtuales(VMs).md",
     "Pasted image 20230226155821.png",
     "Pasted image 20230226155807.png",
     "Pasted image 20230226155719.png",
     "Pasted image 20230226155710.png",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",

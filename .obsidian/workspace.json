@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +234,11 @@
   },
   "active": "9f71fabddd2964a8",
   "lastOpenFiles": [
+    "Pasted image 20230226155821.png",
+    "Pasted image 20230226155807.png",
+    "Pasted image 20230226155719.png",
+    "Pasted image 20230226155710.png",
+    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
@@ -252,7 +257,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
     "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
-    "Cloud/Azure/Azure.md",
     "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/Contenedores.md",
     "Pasted image 20230226154620.png",

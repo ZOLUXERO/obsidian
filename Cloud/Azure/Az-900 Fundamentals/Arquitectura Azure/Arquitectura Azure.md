@@ -6,3 +6,5 @@ Componentes principales de Arquitectura de Azure
 [[Subscripciones]]
 [[Grupos de Administracion]]
 [[Azure Resource Manager(ARM)]]
+
+# Toda la Arquitectura de Azure se puede setear usando ARM o Terraform

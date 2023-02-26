@@ -1,3 +1,5 @@
+[Administración de grupos de recursos: Azure Portal - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/es-es/azure/azure-resource-manager/management/manage-resource-groups-portal)
+
 Resource group estan para organizacion cuando se agrupan estos recursos se tiene que mirar primero si ellos comparten el mismo ciclo de vida.
 
 **USER GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) 

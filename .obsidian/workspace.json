@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "a1722a9591d784d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "1203768f1f608bad",
             "type": "leaf",
             "state": {
@@ -140,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dedf050737ef74c1",
+  "active": "a1722a9591d784d7",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",

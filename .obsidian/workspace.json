@@ -95,8 +95,12 @@
             "id": "dedf050737ef74c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -194,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -5,4 +5,4 @@ Componentes principales de Arquitectura de Azure
 [[Grupos de recursos]]
 [[Subscripciones]]
 [[Grupos de Administracion]]
-[[Azure Resource Manager]]
+[[Azure Resource Manager(ARM)]]

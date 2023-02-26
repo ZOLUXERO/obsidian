@@ -97,19 +97,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a1722a9591d784d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
               }
             }
           },
@@ -150,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +224,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1722a9591d784d7",
+  "active": "dedf050737ef74c1",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de gestion.md",

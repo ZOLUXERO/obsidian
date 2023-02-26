@@ -95,9 +95,17 @@
             "id": "dedf050737ef74c1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f71fabddd2964a8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -198,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +232,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dedf050737ef74c1",
+  "active": "9f71fabddd2964a8",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
+    "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
+    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
@@ -235,7 +246,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
     "Pasted image 20230226150921.png",
     "Pasted image 20230226150248.png",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Cloud.md"
   ]

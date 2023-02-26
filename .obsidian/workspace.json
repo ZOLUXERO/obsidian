@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+                "file": "Cloud/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,19 +234,31 @@
   },
   "active": "9f71fabddd2964a8",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
-    "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
+    "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
+    "Cloud/Azure/Azure.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Kubernetes/Arquitectura/Contenedores.md",
+    "Pasted image 20230226154620.png",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
     "Pasted image 20230226150921.png",
     "Pasted image 20230226150248.png",
-    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Cloud.md"
   ]
 }

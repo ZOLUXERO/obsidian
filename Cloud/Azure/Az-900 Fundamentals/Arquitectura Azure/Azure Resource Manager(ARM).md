@@ -1,6 +1,6 @@
 [Información general del Administrador de recursos de Azure - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/es-es/azure/azure-resource-manager/management/overview)
 
-Azure Resource Manager (ARM): Es como terraform pero nativo de azure
+==Azure Resource Manager (ARM): Es como terraform pero nativo de azure, es decir sirve para hacer configuraciones programaticas==
 
 -   ARM es el servicio de aprovisionamiento de infraestructura nativo de Azure.
 -   ARM es una herramienta específica de Azure, por lo que su enfoque se centra en los recursos de Azure. Si planeas utilizar principalmente los servicios de Azure, ARM puede ser una buena opción.

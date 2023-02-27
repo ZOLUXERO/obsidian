@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,10 +258,11 @@
   },
   "active": "a8ee54919a93feab",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Crear Recursos.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
     "Pasted image 20230226160642.png",
     "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
     "Pasted image 20230226155821.png",
@@ -280,7 +281,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",

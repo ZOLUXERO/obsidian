@@ -23,3 +23,5 @@ Depronto necesito correr una funcion pequena de trabajo cada vez que un archivo 
 
 Si quiero hacer un flow logico para un ejemplo cuando alguien reacciono un twitter se puede usar [[Serverless computing]] (con esto no necesita programar o codificar)
 - **Logic apps**
+
+![[Pasted image 20230301123548.png]]

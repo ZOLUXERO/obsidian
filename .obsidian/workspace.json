@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,20 @@
   },
   "active": "090daa1fdfc41005",
   "lastOpenFiles": [
-    "imagenes/Pasted image 20230218163628.png",
+    "Pasted image 20230301123548.png",
+    "Cloud/Caracteristicas/Alta disponibilidad.md",
+    "Cloud/Caracteristicas/Caracteristicas.md",
+    "Cloud/Caracteristicas/Escalabilidad.md",
+    "Cloud/Caracteristicas/Fiabilidad y previsibilidad.md",
+    "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+    "Cloud/Caracteristicas/Shared responsability.md",
+    "Cloud/Caracteristicas/Recuperación ante desastres.md",
+    "Cloud/Caracteristicas/Elasticidad.md",
+    "Cloud/Caracteristicas/Agilidad.md",
+    "Cloud/Cloud.md",
+    "Redes/Cliente.md",
     "Devops.md",
+    "imagenes/Pasted image 20230218163628.png",
     "imagenes/Pasted image 20230218163558.png",
     "imagenes/Pasted image 20230218174302.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
@@ -151,10 +163,6 @@
     "imagenes/Pasted image 20230301121928.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Cloud/Azure/Azure.md",
-    "Cloud/Caracteristicas/Caracteristicas.md",
-    "Cloud/Caracteristicas/Fiabilidad y previsibilidad.md",
-    "Cloud/Caracteristicas/Shared responsability.md",
-    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
@@ -164,15 +172,8 @@
     "imagenes/Pasted image 20230301115331.png",
     "Cloud/Caracteristicas/Modelo basado en consumo/OpEx.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/CapEx.md",
-    "Cloud/Caracteristicas/Elasticidad.md",
-    "Cloud/Caracteristicas/Tolerancia a Fallos.md",
-    "Cloud/Caracteristicas/Recuperación ante desastres.md",
-    "Cloud/Caracteristicas/Escalabilidad.md",
-    "Cloud/Caracteristicas/Alta disponibilidad.md",
-    "Cloud/Caracteristicas/Agilidad.md",
     "Cloud/Azure/Untitled.md",
     "Cloud/Caracteristicas",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure"
   ]
 }

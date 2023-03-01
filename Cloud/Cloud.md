@@ -11,12 +11,12 @@ La nube ofrece una cantidad de servicios muy grande como por ejemplo
 Todos estos servicios se proveen sobre internet
 
 Para que realmente la nube se llame la nube debe cumplir con ciertos requisitos que son los siguientes:
-- Alta disponibilidad
+- [[Alta disponibilidad]]
 - [[Escalabilidad]]
 - [[Elasticidad]]
 - [[Agilidad]]
 - [[Tolerancia a Fallos]]
-- Recuperación ante desastres
+- [[Recuperación ante desastres]]
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia
 

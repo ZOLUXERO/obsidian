@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7ee526a295ab399c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Caracteristicas/Alta disponibilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Caracteristicas/Alta disponibilidad.md",
+                "file": "Cloud/Caracteristicas/Recuperación ante desastres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +152,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7ee526a295ab399c",
+  "active": "09d294f351056571",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
+    "Pasted image 20230301093513.png",
     "Cloud/Caracteristicas/Recuperación ante desastres.md",
     "Pasted image 20230301093229.png",
     "Cloud/Caracteristicas/Tolerancia a Fallos.md",
@@ -197,12 +187,10 @@
     "Pasted image 20230226160642.png",
     "Pasted image 20230226155821.png",
     "Pasted image 20230226155807.png",
-    "Pasted image 20230226155719.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md"
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md"
   ]
 }

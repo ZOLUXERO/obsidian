@@ -12,7 +12,7 @@ Todos estos servicios se proveen sobre internet
 
 Para que realmente la nube se llame la nube debe cumplir con ciertos requisitos que son los siguientes:
 - Alta disponibilidad
-- Escalabilidad
+- [[Escalabilidad]]
 - Elasticidad
 - Agilidad
 - Recuperación ante desastres

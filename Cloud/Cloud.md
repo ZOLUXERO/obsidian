@@ -18,7 +18,7 @@ Para que realmente la nube se llame ***"la nube"*** debe cumplir con ciertos req
 - [[Tolerancia a Fallos]]
 - [[Recuperación ante desastres]]
 
-Generalmente moverse a la nube es mas barato que mantener infraestructura propia
+Generalmente moverse a la nube es mas barato que mantener infraestructura propia esto es debido al concepto de Economias de escala (Entre mas grande la compañia mas barato puede llegar a ser el producto o el precio por unidad)
 
 ## Public cloud | Private cloud | Hybrid Cloud
 

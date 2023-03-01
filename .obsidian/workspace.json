@@ -11,12 +11,8 @@
             "id": "88e481bb25d1dea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Cloud.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,13 +100,15 @@
   },
   "active": "88e481bb25d1dea4",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Cloud/Caracteristicas/Tolerancia a Fallos.md",
     "Cloud/Caracteristicas/Recuperación ante desastres.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
     "Cloud/Caracteristicas/Agilidad.md",
-    "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Pasted image 20230301093513.png",
     "Pasted image 20230301093229.png",
@@ -123,7 +120,6 @@
     "Pasted image 20230301090826.png",
     "Cloud/Azure/Untitled.md",
     "Cloud/Caracteristicas",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
@@ -141,7 +137,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md"
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md"
   ]
 }

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b42677693865970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +116,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "090daa1fdfc41005",
+  "active": "6b42677693865970",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
+    "Pasted image 20230301184745.png",
+    "Pasted image 20230301184640.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
+    "Pasted image 20230301184452.png",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
+    "Pasted image 20230301183933.png",
+    "Pasted image 20230301183746.png",
+    "Pasted image 20230301183735.png",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Pasted image 20230301182604.png",
@@ -126,22 +147,13 @@
     "Cloud/Caracteristicas/Elasticidad.md",
     "Cloud/Caracteristicas/Agilidad.md",
     "Redes/Cliente.md",
-    "imagenes/Pasted image 20230218174302.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
     "imagenes",
-    "imagenes/Pasted image 20230301122445.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
-    "imagenes/Pasted image 20230301122408.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "imagenes/Pasted image 20230301122317.png",
-    "imagenes/Pasted image 20230301122137.png",
-    "imagenes/Pasted image 20230301121928.png",
     "Cloud/Azure/Azure.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-    "Cloud/Caracteristicas/Modelo basado en consumo/OpEx.md",
     "Cloud/Caracteristicas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure"
   ]

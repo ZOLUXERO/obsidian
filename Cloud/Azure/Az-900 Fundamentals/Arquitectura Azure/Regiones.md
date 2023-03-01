@@ -1,4 +1,4 @@
-Regiones y pares de regiones estan distribuidas globalmente
+Las Regiones estan distribuidas globalmente y existen [[Pares de regiones]]
 
 La region se puede escoger para desplegar las aplicaciones
 

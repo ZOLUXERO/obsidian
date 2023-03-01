@@ -1,9 +1,10 @@
-Separa fisicamente los recursos en una region de Azure una puede estar en los angeles,  miami y otra en new york 
+Separa fisicamente los recursos en [[Regiones]] de Azure ej: una puede estar en los angeles,  miami y otra en new york 
 
-Basicamente esto permite que si una zona se cae la otra responda por la que esta caida para que esto funcione tengo que tener mas de una instancia separadas en esas zonas de disonibilidad esto me da **resilencia** a nivel de problemas de datacenter.
-
+Basicamente esto permite que si una zona se cae la otra responda por la que esta caida para que esto funcione se debe tener mas de una instancia separada en esas zonas de disonibilidad esto da **resilencia** a cualquier servicio si hay un problema a nivel de [[Data center]].
+![[Pasted image 20230301183746.png]]
 ### Zonas redundantes
-Existe zonas que son redundantes es decir que haran lo que se dijo arriba pero son necesidad de decirle que tiene que hacerlo
+Existe zonas que son redundantes es decir que haran lo que se dijo arriba pero sin necesidad de decirle que tiene que hacerlo
+![[Pasted image 20230301183933.png]]
 
 # Se puede usar ARM o Terraform para setear Zonas de disponibilidad
 

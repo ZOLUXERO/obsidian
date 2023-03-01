@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e481bb25d1dea4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "99aee9a23fde247e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +103,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88e481bb25d1dea4",
+  "active": "99aee9a23fde247e",
   "lastOpenFiles": [
+    "Devops.md",
+    "Pasted image 20230218163558.png",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx.md",
+    "Pasted image 20230301115121.png",
+    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx.md",
     "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Cloud/Azure/Azure.md",
@@ -144,10 +142,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Crear Recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure",
     "Pasted image 20230226160642.png",
-    "Pasted image 20230226155821.png",
-    "Pasted image 20230226155807.png",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md"
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md"
   ]
 }

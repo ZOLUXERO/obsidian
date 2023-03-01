@@ -11,5 +11,4 @@ Es la idea de comprar un activo por adelantado ej:
 Es lo que pensamos para usar on premise generalmente
 
 Con CapEx no se puede reaccionar rapidamente a cambios tecnologicos lo que ud compro en ese momento es lo que tiene.
-
 ![[Pasted image 20230301115121.png]]

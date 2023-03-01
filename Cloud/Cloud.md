@@ -3,9 +3,14 @@
 
 Que es la nube?
 En la nube hay datacenters fisicos con cluster de servidores y racks con diferentes nodos.
-- La nube ofrece una cantidad de servicios muy grande
+La nube ofrece una cantidad de servicios muy grande como por ejemplo
+- Almacenamiento
+- Capacidad de computo (VMs)
+- Networking (redes)
+- Analiticas (monitoreo, logs)
+Todos estos servicios se proveen sobre internet
 
-Beneficios de cloud computing
+Para que realmente la nube se llame la nube debe cumplir con ciertos requisitos que son los siguientes:
 - Alta disponibilidad
 - Escalabilidad
 - Elasticidad

@@ -10,6 +10,7 @@ mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft
 	[[Arquitectura Azure]]
 	[[Azure Arc]] -> Agente que esta en un servicio externo para usar politicas y funcionalidades configuradas en Azure en otras plataformas pueden ser otras nubes, onPremise etc.
 	[[Crear Recursos]]
+	[[Shared responsability]]
 
 Para conectarse a la nube se usa internet las conexiones se pueden hacer por VPN, Express Route.
 

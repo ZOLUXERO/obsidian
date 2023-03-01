@@ -1,4 +1,4 @@
-Serverless es un tipo de [[PaaS]]
+Serverless es un tipo de PaaS (Plataforma como servicio)
 
 tipicamente esto es impulsado por eventos yo no me encargo de ninguna infraestructura con serverless computing
 

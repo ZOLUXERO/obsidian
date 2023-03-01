@@ -4,6 +4,7 @@ La region se puede escoger para desplegar las aplicaciones
 
 Para definir la region la mejor metrica que se puede usar es la latencia para saber cual elegir existen herramientas como estas:
 [Azure Speed test](http://azurespeedtest.azurewebsites.net/)
+[Productos por region](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?regions=us-east-2,us-east&products=all)
 
 Cada región de Azure se nombra de manera única, por ejemplo, "East US" o "West Europe". Para garantizar la redundancia geográfica y la alta disponibilidad, cada región está emparejada con otra región en la misma área geográfica, como "West US" y "East US 2". Azure actualmente tiene 33 pares de regiones en todo el mundo.
 

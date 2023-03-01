@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "6b42677693865970",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
     "Pasted image 20230301184745.png",
     "Pasted image 20230301184640.png",
@@ -128,7 +129,6 @@
     "Pasted image 20230301183746.png",
     "Pasted image 20230301183735.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Pasted image 20230301182604.png",
     "Cloud/Cloud.md",

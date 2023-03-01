@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,12 +259,18 @@
   "active": "a8ee54919a93feab",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
+    "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Crear Recursos.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure",
     "Pasted image 20230226160642.png",
-    "Cloud/Azure/Az-900 Fundamentals/Azure Arc.md",
     "Pasted image 20230226155821.png",
     "Pasted image 20230226155807.png",
     "Pasted image 20230226155719.png",
@@ -275,12 +281,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Shared responsability.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",

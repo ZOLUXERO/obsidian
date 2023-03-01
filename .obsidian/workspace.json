@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09d294f351056571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Caracteristicas/Recuperación ante desastres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee526a295ab399c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Caracteristicas/Alta disponibilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+                "file": "Cloud/Caracteristicas/Alta disponibilidad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +164,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58f7f983e6426cd2",
+  "active": "7ee526a295ab399c",
   "lastOpenFiles": [
-    "Cloud/Caracteristicas/Agilidad.md",
-    "Cloud/Caracteristicas/Tolerancia a Fallos.md",
-    "Pasted image 20230301092229.png",
     "Cloud/Cloud.md",
+    "Cloud/Caracteristicas/Alta disponibilidad.md",
+    "Cloud/Caracteristicas/Recuperación ante desastres.md",
+    "Pasted image 20230301093229.png",
+    "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+    "Pasted image 20230301093139.png",
+    "Pasted image 20230301092705.png",
+    "Cloud/Caracteristicas/Agilidad.md",
+    "Pasted image 20230301092229.png",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Pasted image 20230301091707.png",
     "Cloud/Caracteristicas/Escalabilidad.md",
@@ -169,16 +198,11 @@
     "Pasted image 20230226155821.png",
     "Pasted image 20230226155807.png",
     "Pasted image 20230226155719.png",
-    "Pasted image 20230226155710.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Resource Manager(ARM).md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
-    "Pasted image 20230226154620.png",
-    "Pasted image 20230226150921.png"
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md"
   ]
 }

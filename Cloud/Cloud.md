@@ -14,7 +14,8 @@ Para que realmente la nube se llame la nube debe cumplir con ciertos requisitos 
 - Alta disponibilidad
 - [[Escalabilidad]]
 - [[Elasticidad]]
-- Agilidad
+- [[Agilidad]]
+- [[Tolerancia a Fallos]]
 - Recuperación ante desastres
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia

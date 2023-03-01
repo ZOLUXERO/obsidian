@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Caracteristicas/Elastisidad.md",
+                "file": "Cloud/Caracteristicas/Elasticidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Caracteristicas/Elastisidad.md",
+                "file": "Cloud/Caracteristicas/Elasticidad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
   "active": "8348be613df2a6b6",
   "lastOpenFiles": [
     "Cloud/Cloud.md",
-    "Cloud/Caracteristicas/Elastisidad.md",
+    "Cloud/Caracteristicas/Elasticidad.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Pasted image 20230301090826.png",

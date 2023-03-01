@@ -1,0 +1,1 @@
+Elasticidad es la habilidad de escalar dinamicamente

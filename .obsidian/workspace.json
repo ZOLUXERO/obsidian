@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8348be613df2a6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef7ec8058beeddf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Caracteristicas/Agilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f7f983e6426cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Caracteristicas/Tolerancia a Fallos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09d294f351056571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Caracteristicas/Recuperación ante desastres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Caracteristicas/Recuperación ante desastres.md",
+                "file": "Cloud/Cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,18 +103,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "09d294f351056571",
+  "active": "88e481bb25d1dea4",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
-    "Cloud/Cloud.md",
-    "Cloud/Caracteristicas/Alta disponibilidad.md",
-    "Pasted image 20230301093513.png",
-    "Cloud/Caracteristicas/Recuperación ante desastres.md",
-    "Pasted image 20230301093229.png",
+    "Cloud/Caracteristicas/Agilidad.md",
     "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+    "Cloud/Caracteristicas/Alta disponibilidad.md",
+    "Cloud/Cloud.md",
+    "Cloud/Caracteristicas/Recuperación ante desastres.md",
+    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
+    "Pasted image 20230301093513.png",
+    "Pasted image 20230301093229.png",
     "Pasted image 20230301093139.png",
     "Pasted image 20230301092705.png",
-    "Cloud/Caracteristicas/Agilidad.md",
     "Pasted image 20230301092229.png",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Pasted image 20230301091707.png",

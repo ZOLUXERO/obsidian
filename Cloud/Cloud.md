@@ -4,13 +4,13 @@
 Que es la nube?
 En la nube hay datacenters fisicos con cluster de servidores y racks con diferentes nodos.
 La nube ofrece una cantidad de servicios muy grande como por ejemplo
-- Almacenamiento
-- Capacidad de computo (VMs)
-- Networking (redes)
-- Analiticas (monitoreo, logs)
-Todos estos servicios se proveen sobre internet
+- Almacenamiento (archivos, bases de datos etc)
+- Capacidad de computo (VMs, servidores)
+- Networking (redes al momento de conectar con azure o fuera de la compañia)
+- Analiticas (monitoreo, logs y telemetria)
+Todos estos servicios se proveen por internet
 
-Para que realmente la nube se llame la nube debe cumplir con ciertos requisitos que son los siguientes:
+Para que realmente la nube se llame ***"la nube"*** debe cumplir con ciertos requisitos que son los siguientes:
 - [[Alta disponibilidad]]
 - [[Escalabilidad]]
 - [[Elasticidad]]

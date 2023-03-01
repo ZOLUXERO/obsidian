@@ -1,5 +1,7 @@
 Infraestructura como servicio
 
+Con este servicio El proveedor de la nube maneja la infraestructura y nosotros manejamos la plataforma y el software
+
 De que es responsable Azure en IaaS
 
 	- Data        |
@@ -11,3 +13,6 @@ De que es responsable Azure en IaaS
 	- Compute
 	- Network
 	- Storage
+
+![[Pasted image 20230301121928.png]]
+![[Pasted image 20230301122445.png]]

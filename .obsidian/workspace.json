@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+                "file": "Cloud/Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+                "file": "Cloud/Cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "090daa1fdfc41005",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Pasted image 20230301123548.png",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
@@ -161,7 +162,6 @@
     "imagenes/Pasted image 20230301122317.png",
     "imagenes/Pasted image 20230301122137.png",
     "imagenes/Pasted image 20230301121928.png",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
@@ -169,7 +169,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
     "imagenes/Pasted image 20230301115335.png",
-    "imagenes/Pasted image 20230301115331.png",
     "Cloud/Caracteristicas/Modelo basado en consumo/OpEx.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/CapEx.md",
     "Cloud/Azure/Untitled.md",

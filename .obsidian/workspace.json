@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1efe3a83f8eb39e",
+        "id": "6d54105e8659d798",
         "type": "tabs",
         "children": [
           {
-            "id": "95020fc0ba194b8e",
+            "id": "822f4be4ad75080f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -98,9 +98,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "95020fc0ba194b8e",
+  "active": "822f4be4ad75080f",
   "lastOpenFiles": [
     "Cloud/Cloud.md",
+    "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
+    "Cloud/Caracteristicas/Caracteristicas.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Cloud/Azure/Az-900 Fundamentals/Shared responsability.md",
@@ -111,16 +113,14 @@
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Que servicio usar.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
     "Pasted image 20230301115335.png",
     "Pasted image 20230301115331.png",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx.md",
+    "Cloud/Caracteristicas/Modelo basado en consumo/OpEx.md",
+    "Cloud/Caracteristicas/Modelo basado en consumo/CapEx.md",
     "Pasted image 20230301115243.png",
     "Devops.md",
     "Pasted image 20230218163558.png",
     "Pasted image 20230301115121.png",
-    "Cloud/Caracteristicas/Caracteristicas.md",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Cloud/Caracteristicas/Tolerancia a Fallos.md",
     "Cloud/Caracteristicas/Recuperación ante desastres.md",

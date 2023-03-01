@@ -15,7 +15,7 @@ Para que realmente la nube se llame ***"la nube"*** debe cumplir con ciertos req
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia esto es debido al concepto de Economias de escala (Entre mas grande la compañia mas barato puede llegar a ser el producto o el precio por unidad)
 
-La nube usa un modelo a base de consumo [[consumption-based model]]
+La nube usa un modelo a base de consumo
 
 ## Public cloud | Private cloud | Hybrid Cloud
 

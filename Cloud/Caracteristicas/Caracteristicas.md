@@ -4,3 +4,4 @@
 - [[Agilidad]]
 - [[Tolerancia a Fallos]]
 - [[Recuperación ante desastres]]
+- [[consumption-based model]]

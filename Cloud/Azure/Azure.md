@@ -8,7 +8,6 @@ mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft
 	[[Servicios cloud]]
 	[[Fiabilidad y previsibilidad]]
 	[[Arquitectura Azure]]
-	[[Azure Arc]] -> Agente que esta en un servicio externo para usar politicas y funcionalidades configuradas en Azure en otras plataformas pueden ser otras nubes, onPremise etc.
 	[[Crear Recursos]]
 	[[Shared responsability]]
 

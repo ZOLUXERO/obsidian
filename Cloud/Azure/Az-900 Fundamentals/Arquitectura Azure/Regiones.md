@@ -1,4 +1,4 @@
-Las Regiones estan distribuidas globalmente y existen [[Pares de regiones]]
+Las Regiones estan distribuidas globalmente y existen [[Pares de regiones]] generalmente estan conformados por uno o varios [[Data center]] conectados con baja latencia(< 2 ms)
 
 La region se puede escoger para desplegar las aplicaciones
 

@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df61a2c332e6e4ae",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagenes/Pasted image 20230218163558.png"
-              }
-            }
-          },
-          {
-            "id": "3847d1bfaee38e9c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagenes/Pasted image 20230218163628.png"
-              }
-            }
-          },
-          {
-            "id": "d371012498e2fbe2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagenes/Pasted image 20230218163558.png"
-              }
-            }
-          },
-          {
             "id": "090daa1fdfc41005",
             "type": "leaf",
             "state": {
@@ -49,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +106,11 @@
   "active": "090daa1fdfc41005",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Pasted image 20230301123548.png",
+    "imagenes/Pasted image 20230301123548.png",
+    "Devops.md",
+    "Cloud/Cloud.md",
+    "imagenes/Pasted image 20230218163558.png",
+    "imagenes/Pasted image 20230218163628.png",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
@@ -147,11 +120,7 @@
     "Cloud/Caracteristicas/Recuperación ante desastres.md",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Cloud/Caracteristicas/Agilidad.md",
-    "Cloud/Cloud.md",
     "Redes/Cliente.md",
-    "Devops.md",
-    "imagenes/Pasted image 20230218163628.png",
-    "imagenes/Pasted image 20230218163558.png",
     "imagenes/Pasted image 20230218174302.png",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
     "imagenes",

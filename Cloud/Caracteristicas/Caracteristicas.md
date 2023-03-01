@@ -5,3 +5,5 @@
 - [[Tolerancia a Fallos]]
 - [[Recuperación ante desastres]]
 - [[consumption-based model]]
+- [[Shared responsability]]
+- [[Fiabilidad y previsibilidad]]

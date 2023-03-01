@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d54105e8659d798",
+        "id": "4bfee7466246f64f",
         "type": "tabs",
         "children": [
           {
-            "id": "822f4be4ad75080f",
+            "id": "df61a2c332e6e4ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,14 +103,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "822f4be4ad75080f",
+  "active": "df61a2c332e6e4ae",
   "lastOpenFiles": [
+    "Cloud/Azure/Azure.md",
+    "Cloud/Caracteristicas/Caracteristicas.md",
+    "Cloud/Caracteristicas/Fiabilidad y previsibilidad.md",
+    "Cloud/Caracteristicas/Shared responsability.md",
     "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
-    "Cloud/Caracteristicas/Caracteristicas.md",
-    "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
-    "Cloud/Azure/Az-900 Fundamentals/Shared responsability.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",

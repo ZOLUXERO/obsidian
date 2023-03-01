@@ -1,0 +1,6 @@
+- [[Alta disponibilidad]]
+- [[Escalabilidad]]
+- [[Elasticidad]]
+- [[Agilidad]]
+- [[Tolerancia a Fallos]]
+- [[Recuperación ante desastres]]

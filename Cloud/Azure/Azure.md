@@ -4,8 +4,6 @@
 
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
-La nube usa un modelo a base de consumo [[consumption-based model]]
-
 <font color="red">!IMPORTANTE</font>
 	[[Servicios cloud]]
 	[[Fiabilidad y previsibilidad]]

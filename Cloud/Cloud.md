@@ -10,15 +10,12 @@ La nube ofrece una cantidad de servicios muy grande como por ejemplo
 - Analiticas (monitoreo, logs y telemetria)
 Todos estos servicios se proveen por internet
 
-Para que realmente la nube se llame ***"la nube"*** debe cumplir con ciertos requisitos que son los siguientes:
-- [[Alta disponibilidad]]
-- [[Escalabilidad]]
-- [[Elasticidad]]
-- [[Agilidad]]
-- [[Tolerancia a Fallos]]
-- [[Recuperación ante desastres]]
+Para que realmente la nube se llame ***"la nube"*** debe cumplir con ciertos requisitos o caracteristicas que son los siguientes:
+- [[Caracteristicas]]
 
 Generalmente moverse a la nube es mas barato que mantener infraestructura propia esto es debido al concepto de Economias de escala (Entre mas grande la compañia mas barato puede llegar a ser el producto o el precio por unidad)
+
+La nube usa un modelo a base de consumo [[consumption-based model]]
 
 ## Public cloud | Private cloud | Hybrid Cloud
 

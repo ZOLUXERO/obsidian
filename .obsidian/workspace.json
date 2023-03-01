@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef7ec8058beeddf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Caracteristicas/Agilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58f7f983e6426cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Cloud.md",
+                "file": "Cloud/Caracteristicas/Tolerancia a Fallos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,11 +140,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8348be613df2a6b6",
+  "active": "58f7f983e6426cd2",
   "lastOpenFiles": [
+    "Cloud/Caracteristicas/Agilidad.md",
+    "Cloud/Caracteristicas/Tolerancia a Fallos.md",
+    "Pasted image 20230301092229.png",
+    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Elasticidad.md",
     "Pasted image 20230301091707.png",
-    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Pasted image 20230301090826.png",
@@ -151,9 +178,7 @@
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
-    "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
     "Pasted image 20230226154620.png",
-    "Pasted image 20230226150921.png",
-    "Pasted image 20230226150248.png"
+    "Pasted image 20230226150921.png"
   ]
 }

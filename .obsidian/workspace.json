@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Caracteristicas/Elasticidad.md",
+                "file": "Cloud/Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Caracteristicas/Elasticidad.md",
+                "file": "Cloud/Cloud.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,9 @@
   },
   "active": "8348be613df2a6b6",
   "lastOpenFiles": [
-    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Elasticidad.md",
+    "Pasted image 20230301091707.png",
+    "Cloud/Cloud.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Pasted image 20230301090826.png",
@@ -151,7 +152,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/OpEx (Operational expenditure).md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Azure/Az-900 Fundamentals/Modelo basado en consumo/CapEx (capital expenditure).md",
-    "Cloud/Azure/Az-900 Fundamentals/Fiabilidad y previsibilidad.md",
     "Pasted image 20230226154620.png",
     "Pasted image 20230226150921.png",
     "Pasted image 20230226150248.png"

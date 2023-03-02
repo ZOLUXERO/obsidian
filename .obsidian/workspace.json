@@ -11,9 +11,11 @@
             "id": "640d36b13c83509e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230302112413.png"
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230302112413.png",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +105,17 @@
   },
   "active": "640d36b13c83509e",
   "lastOpenFiles": [
-    "Pasted image 20230302110034.png",
-    "Pasted image 20230302105912.png",
-    "Pasted image 20230302105215.png",
-    "Pasted image 20230302103711.png",
-    "Pasted image 20230301190229.png",
-    "Pasted image 20230301184745.png",
-    "Pasted image 20230301184640.png",
-    "Pasted image 20230301184452.png",
-    "Pasted image 20230301183933.png",
-    "Pasted image 20230301183746.png",
-    "Pasted image 20230301183735.png",
+    "imagenes/Pasted image 20230302112413.png",
+    "imagenes/Pasted image 20230302110034.png",
+    "imagenes/Pasted image 20230302105912.png",
+    "imagenes/Pasted image 20230302105215.png",
+    "imagenes/Pasted image 20230302103711.png",
+    "imagenes/Pasted image 20230301190229.png",
+    "imagenes/Pasted image 20230301184745.png",
+    "imagenes/Pasted image 20230301184640.png",
+    "imagenes/Pasted image 20230301184452.png",
+    "imagenes/Pasted image 20230301183933.png",
+    "imagenes/Pasted image 20230301183746.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Servicios de red.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/VMs Scale sets.md",

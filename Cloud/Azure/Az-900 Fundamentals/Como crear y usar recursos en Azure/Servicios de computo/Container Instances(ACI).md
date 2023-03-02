@@ -5,3 +5,4 @@
 	- Esfuerzo por parte de desarrollo
 	- Mantenimiento
 	- Requerimientos de almacenamiento y computo
+- Responden rapido a cambios de demanda

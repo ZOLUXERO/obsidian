@@ -25,7 +25,7 @@
       "query": "path:Cloud",
       "color": {
         "a": 1,
-        "rgb": 15640107
+        "rgb": 15246124
       }
     },
     {
@@ -33,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 10965728
-      }
-    },
-    {
-      "query": "path:Cloud/Azure",
-      "color": {
-        "a": 1,
-        "rgb": 15640146
       }
     }
   ],
@@ -53,6 +46,6 @@
   "repelStrength": 13.0208333333333,
   "linkStrength": 1,
   "linkDistance": 94,
-  "scale": 0.2588386562181928,
-  "close": false
+  "scale": 0.36288736930125887,
+  "close": true
 }

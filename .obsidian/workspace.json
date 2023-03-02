@@ -11,8 +11,12 @@
             "id": "dc07a9e314c2bf0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +105,10 @@
   },
   "active": "dc07a9e314c2bf0c",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
-    "Pasted image 20230302124021.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Functions Apps.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Pasted image 20230302124021.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Container Instances(ACI).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
     "Pasted image 20230302123626.png",

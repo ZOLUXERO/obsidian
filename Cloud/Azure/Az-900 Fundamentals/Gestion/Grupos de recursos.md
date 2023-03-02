@@ -1,6 +1,13 @@
 [Administración de grupos de recursos: Azure Portal - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/es-es/azure/azure-resource-manager/management/manage-resource-groups-portal)
 
-Resource group estan para organizacion cuando se agrupan estos recursos se tiene que mirar primero si ellos comparten el mismo ciclo de vida.
+Resource group es la agrupacion de recursos relacionados logicamente.
+- Se puede agrupar recursos que comparten el mismo ciclo de vida es decir una aplicacion completa un ejemplo seria agrupar por ambientes dev, qa, produccion esto para poder aplicar diferentes scripts, politicas, reglas de seguridad y diferentes reglas de politicas de acceso. ==(Recomendado)==
+- Se puede agrupar recursos por su tipo un ejemplo seria agrupar todas las bases de datos y todas las aplicaciones 
+- Se puede agrupar recursos por departamento
+- Se puede agrupar por tarifas
+- Se puede agrupar por zonas
+- Se puede agrupar por una combinacion de tarifas y zonas
+![[Pasted image 20230302105215.png]]
 
 ==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
 **SE PUEDEN DAR PERMISOS A UN USUARIO A CIERTO GRUPO** (un repo, un pipeline, control de acceso a grupos por rol)

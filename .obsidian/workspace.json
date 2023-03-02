@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6305db7c4edf341e",
+        "id": "4d78d8f0fd3ca7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "c4cfae631c37b4db",
+            "id": "c18a638020366e18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +103,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4cfae631c37b4db",
+  "active": "c18a638020366e18",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion.md",
+    "Pasted image 20230302105215.png",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
+    "Pasted image 20230302103711.png",
+    "Pasted image 20230302103559.png",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
@@ -120,9 +129,7 @@
     "Pasted image 20230301182604.png",
     "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "imagenes/Pasted image 20230301123548.png",
     "Devops.md",
-    "imagenes/Pasted image 20230218163558.png",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
     "Cloud/Caracteristicas/Caracteristicas.md",
     "Cloud/Caracteristicas/Escalabilidad.md",
@@ -136,8 +143,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/IaaS.md",
     "imagenes",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
     "Cloud/Caracteristicas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure"
   ]

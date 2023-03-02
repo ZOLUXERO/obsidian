@@ -1,4 +1,6 @@
-Las Regiones estan distribuidas globalmente y existen [[Pares de regiones]] generalmente estan conformados por uno o varios [[Data center]] conectados con baja latencia(< 2 ms)
+Las Regiones estan distribuidas globalmente y existen [[Pares de regiones]] 
+- Generalmente estan conformados por uno o varios [[Data center]] conectados con baja latencia(< 2 ms)
+- Algunos servicios solo estan disponibles en ciertas regiones
 
 La region se puede escoger para desplegar las aplicaciones
 
@@ -7,8 +9,9 @@ Para definir la region la mejor metrica que se puede usar es la latencia para sa
 [Productos por region](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?regions=us-east-2,us-east&products=all)
 
 Cada región de Azure se nombra de manera única, por ejemplo, "East US" o "West Europe". Para garantizar la redundancia geográfica y la alta disponibilidad, cada región está emparejada con otra región en la misma área geográfica, como "West US" y "East US 2". Azure actualmente tiene 33 pares de regiones en todo el mundo.
+![[Pasted image 20230301190229.png]]
 
-#### Al utilizar pares de regiones en Azure, los clientes pueden implementar soluciones empresariales altamente disponibles y resistentes a fallos.
+#### Al utilizar [[Pares de regiones]] en Azure, los clientes pueden implementar soluciones empresariales altamente disponibles y resistentes a fallos.
 
 # Se puede usar ARM o Terraform para setear Regiones
 En ARM, la creación de recursos de Azure en una región determinada se realiza al especificar la ubicación del recurso en la plantilla de Azure Resource Manager. La especificación de la ubicación en la plantilla indica a Azure en qué región crear el recurso.

@@ -11,15 +11,40 @@
             "id": "c18a638020366e18",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c27e32f6898eb192",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "60e1d1c20af79502",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Servicios de red.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ff1c060cc04746f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +127,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c18a638020366e18",
+  "active": "3ff1c060cc04746f",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Servicios de red.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
@@ -118,7 +147,6 @@
     "Pasted image 20230302105215.png",
     "Pasted image 20230302103711.png",
     "Pasted image 20230302103559.png",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion",
@@ -140,9 +168,6 @@
     "Cloud/Caracteristicas/Tolerancia a Fallos.md",
     "Cloud/Caracteristicas/Shared responsability.md",
     "Cloud/Caracteristicas/Recuperación ante desastres.md",
-    "Cloud/Caracteristicas/Elasticidad.md",
-    "Cloud/Caracteristicas/Agilidad.md",
-    "Redes/Cliente.md",
     "imagenes",
     "Cloud/Caracteristicas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure"

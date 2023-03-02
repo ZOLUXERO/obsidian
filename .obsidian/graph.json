@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Redes",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 10965728
       }
+    },
+    {
+      "query": "path:Cloud/Azure",
+      "color": {
+        "a": 1,
+        "rgb": 15640146
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 13.0208333333333,
   "linkStrength": 1,
   "linkDistance": 94,
-  "scale": 0.5087618855793175,
-  "close": true
+  "scale": 0.2588386562181928,
+  "close": false
 }

@@ -3,9 +3,9 @@
 ==Azure Resource Manager (ARM): Es como terraform pero nativo de azure, es decir sirve para hacer configuraciones programaticas==
 ![[Pasted image 20230302110034.png]]
 -   ARM es el servicio de aprovisionamiento de infraestructura nativo de Azure.
--   ARM es una herramienta específica de Azure, por lo que su enfoque se centra en los recursos de Azure. Si planeas utilizar principalmente los servicios de Azure, ARM puede ser una buena opción.
--   ARM utiliza un formato JSON para definir la configuración de la infraestructura. Esto significa que necesitarás conocimientos básicos de JSON para escribir tus plantillas de ARM.
--   Si eres nuevo en la creación de infraestructura en Azure, es posible que ARM sea más fácil de aprender que Terraform.
+-   ARM es una herramienta específica de Azure, por lo que su enfoque se centra en los recursos de Azure. Si planea utilizar principalmente los servicios de Azure, ARM puede ser una buena opción.
+-   ARM utiliza un formato JSON para definir la configuración de la infraestructura. Esto significa que necesitará conocimientos básicos de JSON para escribir sus plantillas de ARM.
+-   Si es nuevo en la creación de infraestructura en Azure, es posible que ARM sea más fácil de aprender que Terraform.
 
 ![[Pasted image 20230226150921.png]]
 

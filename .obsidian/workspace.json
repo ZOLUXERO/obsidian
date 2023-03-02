@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef0e2e543213cac",
+        "id": "e90deb13937619d6",
         "type": "tabs",
         "children": [
           {
-            "id": "640d36b13c83509e",
+            "id": "dc07a9e314c2bf0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +98,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "640d36b13c83509e",
+  "active": "dc07a9e314c2bf0c",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
+    "Pasted image 20230302124021.png",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Functions Apps.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Container Instances(ACI).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
+    "Pasted image 20230302123626.png",
     "Pasted image 20230302123150.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/AKS.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Pasted image 20230302122753.png",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
     "Pasted image 20230302122145.png",
     "Pasted image 20230302120459.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/VMs Scale sets.md",
@@ -119,11 +118,7 @@
     "imagenes/Pasted image 20230302112413.png",
     "imagenes/Pasted image 20230302110034.png",
     "imagenes/Pasted image 20230302105912.png",
-    "imagenes/Pasted image 20230302105215.png",
-    "imagenes/Pasted image 20230302103711.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Servicios de red.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Functions.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",

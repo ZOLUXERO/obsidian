@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e90deb13937619d6",
+        "id": "1f40752126bde87f",
         "type": "tabs",
         "children": [
           {
-            "id": "dc07a9e314c2bf0c",
+            "id": "5cd56ed6b6b9c0ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/AKS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/AKS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dc07a9e314c2bf0c",
+  "active": "5cd56ed6b6b9c0ba",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/VMs Scale sets.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",

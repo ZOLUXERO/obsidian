@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81b1c4907dfc311d",
+            "id": "c4cfae631c37b4db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +98,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "81b1c4907dfc311d",
+  "active": "c4cfae631c37b4db",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
+    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
     "Pasted image 20230301190229.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
@@ -116,8 +116,7 @@
     "Pasted image 20230301183933.png",
     "Pasted image 20230301183746.png",
     "Pasted image 20230301183735.png",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Pasted image 20230301182604.png",
     "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
@@ -138,9 +137,7 @@
     "imagenes",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/PaaS.md",
-    "Cloud/Azure/Azure.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
     "Cloud/Caracteristicas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure"
   ]

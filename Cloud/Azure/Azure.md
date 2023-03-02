@@ -8,6 +8,7 @@ mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft
 	[[Servicios cloud]]
 	[[Arquitectura Azure]]
 	[[Crear Recursos]]
+	[[Gestion]]
 
 Para conectarse a la nube se usa internet las conexiones se pueden hacer por VPN, Express Route.
 

@@ -1,4 +1,4 @@
-- Es un tipo de servicio [[PaaS]] aunque tambien es llamado Serverless
+- Es un tipo de servicio PaaS aunque tambien es llamado Serverless
 - Tiene dos modelos de precios
 	- Basado en consumo
 	- Plan dedicado

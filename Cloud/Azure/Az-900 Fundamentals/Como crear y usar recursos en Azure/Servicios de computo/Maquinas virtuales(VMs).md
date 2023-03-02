@@ -1,7 +1,7 @@
 La virtualizacion ==es la emulacion de maquinas fisicas==, nos da la habilidad de crear diferentes configuraciones de hardware por maquina/app tambien podemos instalar diferentes sistemas operativos por maquina/app la ventaja que nos da esto es la separacion de ambientes donde cada uno de ellos tendra sus puertos, file systems, servicios, middleware y configuraciones
 Tambien existen [[VMs Scale sets]]
 ![[Pasted image 20230302112413.png]]
-Las maquina virtuales es un servicio de tipo [[IaaS]]
+Las maquina virtuales es un servicio de tipo IaaS
 
 Los escenarios en los que se utilizan una VM generalmente son:
 - Un requerimiento de software con una configuracion de sistema custom

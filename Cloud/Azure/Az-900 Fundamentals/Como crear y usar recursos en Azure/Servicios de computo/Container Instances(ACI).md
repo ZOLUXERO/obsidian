@@ -1,5 +1,5 @@
 - Es la manera mas simple y rapida de correr un contenedor en Azure
-- Container Instances es un tipo de servicio [[PaaS]]
+- Container Instances es un tipo de servicio PaaS
 - Son contenedores Serverless
 - Esta diseñado para:
 	- Aplicaciones o servicios web simples y pequeños

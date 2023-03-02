@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "c18a638020366e18",
   "lastOpenFiles": [
+    "Pasted image 20230302110034.png",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Pasted image 20230302105912.png",
     "Pasted image 20230302105215.png",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
@@ -125,8 +127,6 @@
     "Pasted image 20230301184452.png",
     "Pasted image 20230301183933.png",
     "Pasted image 20230301183746.png",
-    "Pasted image 20230301183735.png",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Cloud/Cloud.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
     "Devops.md",

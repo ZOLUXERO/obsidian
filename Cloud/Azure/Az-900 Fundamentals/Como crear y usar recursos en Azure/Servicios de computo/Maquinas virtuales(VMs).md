@@ -2,6 +2,10 @@ La virtualizacion ==es la emulacion de maquinas fisicas==, nos da la habilidad d
 ![[Pasted image 20230302112413.png]]
 Las maquina virtuales es un servicio de tipo [[IaaS]]
 
+Los escenarios en los que se utilizan una VM generalmente son:
+- Un requerimiento de software con una configuracion de sistema custom
+- Lift and shift Escenarios
+
 ### Ejemplo de recursos necesarios para una maquina virtual bajo un grupo de recursos de Azure
 La mejor practica seria usar grupos de recursos para ordenar todos los recursos que necesita una maquina virtual o ambiente.
 [Información general sobre las máquinas virtuales en Azure - Azure Virtual Machines | Microsoft Learn](https://learn.microsoft.com/es-es/azure/virtual-machines/overview)

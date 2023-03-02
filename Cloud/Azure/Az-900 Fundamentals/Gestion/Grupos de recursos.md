@@ -8,7 +8,7 @@ Resource group es la agrupacion de recursos relacionados logicamente.
 - Se puede agrupar por zonas
 - Se puede agrupar por una combinacion de tarifas y zonas
 ![[Pasted image 20230302105215.png]]
-
+![[Pasted image 20230302105912.png]]
 ==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
 **SE PUEDEN DAR PERMISOS A UN USUARIO A CIERTO GRUPO** (un repo, un pipeline, control de acceso a grupos por rol)
 **SE PUEDEN CREAR POLITICAS A UN GRUPO** (que un rol pueda crear solo ciertas cosas)

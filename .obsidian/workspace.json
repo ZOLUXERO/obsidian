@@ -11,11 +11,9 @@
             "id": "640d36b13c83509e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230302112413.png"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
+                "file": "Pasted image 20230302112413.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +103,22 @@
   },
   "active": "640d36b13c83509e",
   "lastOpenFiles": [
+    "Pasted image 20230302110034.png",
+    "Pasted image 20230302105912.png",
+    "Pasted image 20230302105215.png",
+    "Pasted image 20230302103711.png",
+    "Pasted image 20230301190229.png",
+    "Pasted image 20230301184745.png",
+    "Pasted image 20230301184640.png",
+    "Pasted image 20230301184452.png",
+    "Pasted image 20230301183933.png",
+    "Pasted image 20230301183746.png",
+    "Pasted image 20230301183735.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Servicios de red.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/VMs Scale sets.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Container Instances(ACI).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/AKS.md",
-    "Pasted image 20230302112413.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Functions.md",
@@ -124,22 +132,13 @@
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
-    "Pasted image 20230302110034.png",
-    "Pasted image 20230302105912.png",
-    "Pasted image 20230302105215.png",
-    "Pasted image 20230302103711.png",
-    "Pasted image 20230302103559.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Arquitectura Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Untitled.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
-    "Pasted image 20230301190229.png",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Data center.md",
-    "Pasted image 20230301184745.png",
-    "Pasted image 20230301184640.png",
-    "Pasted image 20230301184452.png",
     "Cloud/Cloud.md",
     "Devops.md",
     "Cloud/Caracteristicas/Alta disponibilidad.md",

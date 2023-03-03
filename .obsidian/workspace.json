@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "555ad79f9498558e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5cd56ed6b6b9c0ba",
+  "active": "555ad79f9498558e",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/VMs Scale sets.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",

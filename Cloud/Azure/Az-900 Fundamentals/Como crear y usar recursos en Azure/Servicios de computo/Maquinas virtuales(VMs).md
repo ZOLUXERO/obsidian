@@ -1,3 +1,4 @@
+### [Como crear una maquina virtual](https://youtu.be/inaXkN2UrFE?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=290)
 La virtualizacion ==es la emulacion de maquinas fisicas==, nos da la habilidad de crear diferentes configuraciones de hardware por maquina/app tambien podemos instalar diferentes sistemas operativos por maquina/app la ventaja que nos da esto es la separacion de ambientes donde cada uno de ellos tendra sus puertos, file systems, servicios, middleware y configuraciones
 Tambien existen [[VMs Scale sets]]
 ![[Pasted image 20230302112413.png]]

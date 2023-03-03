@@ -49,14 +49,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e49d9531863d67c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5171f95d1a80e7b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +159,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7a3da5bb16aa1bf1",
+  "active": "5171f95d1a80e7b1",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Blob.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/App Services.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Container Instances(ACI).md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "Pasted image 20230303171243.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/VPN Gateway.md",
@@ -173,10 +198,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/SaaS.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",
     "Cloud/Azure/Az-900 Fundamentals/Gestion",

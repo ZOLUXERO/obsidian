@@ -1,0 +1,5 @@
+[[Blob Storage]]
+[[File Storage]]
+[[Table Storage]]
+[[Queue Storage]]
+[[Disk Storage]]

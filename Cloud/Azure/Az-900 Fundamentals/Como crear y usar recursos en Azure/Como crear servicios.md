@@ -1,2 +1,2 @@
 [[Servicios de computo]]
-[[Networking]]
+[[Virtual Network]]

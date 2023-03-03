@@ -1,4 +1,4 @@
-Separa fisicamente los recursos en [[Regiones]] de Azure ej: una puede estar en los angeles,  miami y otra en new york 
+Separa fisicamente los recursos en [[Regiones]] de Azure ej: una puede estar en los angeles,  miami y otra en new york con esto podemos lograr 99,99% 
 
 Basicamente esto permite que si una zona se cae la otra responda por la que esta caida para que esto funcione se debe tener mas de una instancia separada en esas zonas de disonibilidad esto da **resilencia** a cualquier servicio si hay un problema a nivel de [[Data center]].
 ![[Pasted image 20230301183746.png]]

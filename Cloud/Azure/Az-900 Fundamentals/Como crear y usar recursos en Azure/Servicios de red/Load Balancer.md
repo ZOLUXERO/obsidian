@@ -1,0 +1,1 @@
+Distribuye el trafico sobre varios recursos, esto permite tener escalamiento horizontal(que es preferible al vertical) y alta disponibilidad.

@@ -1,7 +1,4 @@
-[[Blob Storage]]
-[[File Storage]]
-[[Table Storage(NoSql)]]
-[[Queue Storage]]
+[[Azure Storage Account]]
 [[Disk Storage]]
 
 ## Tipos de datos

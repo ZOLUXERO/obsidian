@@ -1,5 +1,5 @@
 ### [Como crear un Virtual Network](https://youtu.be/5NMcM4zJPM4?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=265)
-Es una emulacion de una infraestructura de redes fisica
+Emula la infraestructura de una red
 Permite crear, manejar, monitorear y asegurar conectividad entre recursos de azure.
 ### Caracteristicas
 -   Permite aislar componentes de red lógicamente

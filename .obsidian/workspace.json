@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Untitled.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Untitled.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +166,15 @@
   },
   "active": "993a1f58b4cd533f",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Untitled.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Pasted image 20230303164932.png",
     "Pasted image 20230303164618.png",
     "Cloud/Caracteristicas/Alta disponibilidad.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Caracteristicas/Agilidad.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/OpEx.md",
     "Cloud/Caracteristicas/Modelo basado en consumo/consumption-based model.md",
@@ -191,9 +194,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Azure Arc.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Pares de regiones.md",
     "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Regiones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Subscripciones.md",
-    "Cloud/Azure/Az-900 Fundamentals/Arquitectura Azure/Zonas de disponibilidad.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/VPN Gateway.md",
     "Pasted image 20230303163439.png",
     "Pasted image 20230303163015.png",
     "Pasted image 20230303162357.png",

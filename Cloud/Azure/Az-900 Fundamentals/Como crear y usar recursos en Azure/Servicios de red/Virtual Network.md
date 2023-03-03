@@ -13,5 +13,5 @@ Permite crear, manejar, monitorear y asegurar conectividad entre recursos de azu
 - Permitir a los clientes manejar las direcciones IP de una manera mas eficiente
 - Agrupar recursos relacionados para aplicar filtros y reglas de seguridad atraves de multiples recursos en una subnet, por ejemplo agrupando todos los recursos que alojan una aplicacion web y solo permitiendo trafico a esa subnet especifica
 ![[Pasted image 20230303162357.png]]
-### NSG(Network Security Group)
+### [[NSG]](Network Security Group)
 ![[Pasted image 20230303163015.png]]

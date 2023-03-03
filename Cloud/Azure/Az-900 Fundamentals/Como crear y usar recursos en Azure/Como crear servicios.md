@@ -1,2 +1,3 @@
 [[Servicios de computo]]
-[[Virtual Network]]
+[[Networking Services]]
+[[Servicios de Almacenamiento]]

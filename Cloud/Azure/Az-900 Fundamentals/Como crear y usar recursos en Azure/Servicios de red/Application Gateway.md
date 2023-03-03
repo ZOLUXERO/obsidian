@@ -1,0 +1,1 @@
+Si se habla de distribucion de trafico web(HTTP) usualmente la mejor opcion es usar Application Gateway esto es por que el application gateway ==esta diseñado para soportar trafico web== tiene mas caracteristicas que permiten a los usuarios manejar de mejor manera su trafico web

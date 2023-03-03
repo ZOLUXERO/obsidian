@@ -4,6 +4,7 @@
     -   almacenamiento en [[Queue Storage]],
     -   almacenamiento de [[Table Storage(NoSql)]]
     -   almacenamiento de [[File Storage]]
+    -   almacenamiento de [[Disk Storage]]
 -   Se utiliza para almacenar
     -   archivos,
     -   mensajes, y

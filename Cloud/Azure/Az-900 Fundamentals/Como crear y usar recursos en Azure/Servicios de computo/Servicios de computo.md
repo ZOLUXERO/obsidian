@@ -12,6 +12,6 @@ Compute services es una categoria de servicios en azure que permite correr aplic
 - [[Container Instances(ACI)]](PaaS): Para alojar contenedores simples, fácil de comenzar
 - [[AKS]](PaaS): Cuando necesite alojar y orquestar una gran cantidad de contenedores, altamente escalable y personalizable
 - [[App Services]](PaaS): si necesita alojar aplicaciones web de manera rapida y sencilla esta es la mejor opcion
-- [[Azure Functions]](PaaS) (Función como servicio) (Serverless): micro/nanoservicios, excelente precio basado en el consumo, fácil de comenzar *(No deberia usar Azure functions para crear servicios o aplicaciones web de ningun tamaño pero si sirven como un buen complemento a estos)
+- Azure Functions (PaaS) (Función como servicio) (Serverless): micro/nanoservicios, excelente precio basado en el consumo, fácil de comenzar *(No deberia usar Azure functions para crear servicios o aplicaciones web de ningun tamaño pero si sirven como un buen complemento a estos)
 
 ![[Pasted image 20230302125048.png]]

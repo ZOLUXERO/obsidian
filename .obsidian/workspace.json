@@ -8,123 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5b1d8b138a75116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Bases de datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9cac442cba5fdc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Cosmos DB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ac5c4333360c59c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Azure SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4f45ef9451c8795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5caa9725f3f1165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb7ff78e7cd8545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT/IOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028aff2c557c78d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data/Big Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bab0a669def9bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data/Azure Synapse Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a9d05338460395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data/Big Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51e373a5230e6436",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Azure Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e227ba65696dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Logic Apps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Logic Apps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +116,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "51e373a5230e6436",
+  "active": "03e227ba65696dbd",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Azure Functions.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Logic Apps.md",
+    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning/Azure Machine Learning.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data/Big Data.md",
@@ -245,10 +157,8 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Table Storage(NoSql).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Queue Storage.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/File Storage.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Blob Storage.md",
     "imagenes/Pasted image 20230303173731.png",
     "imagenes/Pasted image 20230303173625.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",

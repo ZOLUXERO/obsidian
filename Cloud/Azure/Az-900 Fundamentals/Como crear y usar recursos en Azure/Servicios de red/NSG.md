@@ -1,4 +1,4 @@
-Usar [[ASG]]
+Para agrupar reglas por maquinas virtuales usar [[ASG]]
 ### [Como usar NSG](https://youtu.be/w8H5fWBHddA?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=103)
 - ==Permite hacer configuraciones para permitir o denegar trafico a recursos en una virtual network en Azure==
 -   Filtrado controlado por **reglas**

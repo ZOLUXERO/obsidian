@@ -1,0 +1,1 @@
+Permite hacer configuraciones para permitir o denegar trafico 

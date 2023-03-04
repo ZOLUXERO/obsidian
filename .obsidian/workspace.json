@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3301f850907cabde",
+        "id": "943be22d3895c476",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8ea1d84bef1b39",
+            "id": "c3a48c167efc9f24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a560af2b8385443d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,9 +107,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c8ea1d84bef1b39",
+  "active": "a560af2b8385443d",
   "lastOpenFiles": [
+    "Cloud/Azure/Azure DevOps.md",
+    "Pasted image 20230304112219.png",
     "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+    "Pasted image 20230303175223.png",
+    "Pasted image 20230303174919.png",
+    "Pasted image 20230303174645.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Azure Storage Account.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
     "Devops.md",
@@ -132,15 +148,7 @@
     "Pasted image 20230303213636.png",
     "Pasted image 20230303203553.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Bases de datos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Cosmos DB.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Azure SQL Family.md",
-    "Pasted image 20230303203244.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Azure SQL.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
-    "Pasted image 20230303175223.png",
-    "Pasted image 20230303174919.png",
-    "Pasted image 20230303174645.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",

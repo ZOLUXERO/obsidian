@@ -22,17 +22,24 @@
       }
     },
     {
-      "query": "path:Cloud",
-      "color": {
-        "a": 1,
-        "rgb": 15246124
-      }
-    },
-    {
       "query": "path:\"Infraestructura como codigo\"",
       "color": {
         "a": 1,
         "rgb": 10965728
+      }
+    },
+    {
+      "query": "path:Cloud/Azure",
+      "color": {
+        "a": 1,
+        "rgb": 10151334
+      }
+    },
+    {
+      "query": "path:Cloud",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
       }
     }
   ],
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1.50364583333333,
   "collapse-forces": false,
-  "centerStrength": 0.5,
+  "centerStrength": 0.604166666666667,
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.18462326225862574,
+  "scale": 0.5087618855793993,
   "close": true
 }

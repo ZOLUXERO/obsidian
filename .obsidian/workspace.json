@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb7ff78e7cd8545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT/IOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT/IOT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +164,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b5caa9725f3f1165",
+  "active": "947e902a51cf824d",
   "lastOpenFiles": [
-    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT/IOT.md",
+    "Pasted image 20230303213636.png",
+    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Pasted image 20230303203553.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Bases de datos.md",
@@ -187,11 +202,8 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Container Instances(ACI).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
-    "imagenes/Pasted image 20230303171243.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/VPN Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
-    "Kubernetes/Arquitectura/Contenedores.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",
     "Cloud/Azure/Az-900 Fundamentals/Gestion",

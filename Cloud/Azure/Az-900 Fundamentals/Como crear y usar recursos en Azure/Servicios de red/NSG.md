@@ -1,1 +1,1 @@
-Permite hacer configuraciones para permitir o denegar trafico 
+Permite hacer configuraciones para permitir o denegar trafico a recursos en una virtual network en Azure

@@ -1,0 +1,2 @@
+-   Plataforma flexible multipropósito de big data (PaaS)
+-   Múltiples tecnologías compatibles (Hadoop, Spark, Kafka, HBase, Hive, Storm, Machine Learning)

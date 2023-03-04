@@ -1,0 +1,8 @@
+-   Plataforma de análisis de big data (PaaS)
+-   Múltiples componentes
+    -   Chispa - chispear
+    -   Sinapsis SQL
+        -   Grupos de SQL (dedicados: pago por rendimiento aprovisionado)
+        -   SQL bajo demanda (ad-hoc: pago por TB procesados)
+    -   Tuberías Synapse (fábrica de datos - ETL)
+    -   Estudio (experiencia unificada)

@@ -18,3 +18,8 @@ Basados en las siguiente reglas se pude definir si un set de datos es considerad
     -   bases de datos
     -   Foto, Audio
     -   Vídeo, Redes Sociales
+[[Azure Synapse Analytics]]
+[[Azure HDInsight]]
+[[Azure Databricks]]
+### Cuando usar que?
+![[Pasted image 20230303215416.png]]

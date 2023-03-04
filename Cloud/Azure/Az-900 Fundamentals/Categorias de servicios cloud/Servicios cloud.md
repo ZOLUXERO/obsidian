@@ -25,3 +25,5 @@ Si quiero hacer un flow logico para un ejemplo cuando alguien reacciono un twitt
 - **Logic apps**
 
 ![[Pasted image 20230301123548.png]]
+
+Tambien existen servicios [[IOT]]

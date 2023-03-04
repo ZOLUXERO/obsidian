@@ -1,4 +1,4 @@
-[[Azure]]
+[[Cloud/Azure/Azure]]
 [[Aws]]
 
 Que es la nube?

@@ -10,7 +10,7 @@ Permite crear flujos de trabajo usando una interface visual, tiene mas de 200 co
 - No deberia usar Azure functions para crear servicios o aplicaciones web de ningun tamaño pero si sirven como un buen complemento a estos
 ![[Pasted image 20230302123626.png]]
 ### Event Grid
--   Servicio de enrutamiento de eventos sin servidor completamente administrado
+-   Servicio de enrutamiento de eventos entre servicios sin servidor completamente administrado
 -   Utiliza el modelo de publicación-suscripción
 -   Diseñado para aplicaciones basadas en eventos y casi en tiempo real
 -   Admite docenas de eventos integrados de los servicios de Azure más comunes

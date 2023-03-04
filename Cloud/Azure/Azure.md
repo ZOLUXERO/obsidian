@@ -1,7 +1,7 @@
 **az-900 -> az-104 -> az-400**
 
 ==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
-==**USAR AZURE CLI o AZURE CLOUD SHELL**==
+**USAR AZURE CLI** o [AZURE CLOUD SHELL](https://youtu.be/8JHY0xPssb8?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=353)
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 <font color="red">!IMPORTANTE</font>

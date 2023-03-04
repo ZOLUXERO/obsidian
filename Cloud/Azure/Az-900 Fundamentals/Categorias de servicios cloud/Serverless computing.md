@@ -3,8 +3,8 @@ Serverless es un tipo de PaaS (Plataforma como servicio)
 tipicamente esto es impulsado por eventos yo no me encargo de ninguna infraestructura con serverless computing
 
 tipos de serverless
-- Functions
-- LogicApps
+- [[Azure Functions]]
+- [[Logic Apps]]
 
 
 	- Data        |

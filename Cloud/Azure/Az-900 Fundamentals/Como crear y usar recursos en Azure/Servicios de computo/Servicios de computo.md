@@ -4,8 +4,6 @@ Compute services es una categoria de servicios en azure que permite correr aplic
 [[Container Instances(ACI)]]
 [[AKS]]
 [[App Services]]
-[[Azure Functions]]
-[[Logic Apps]]
 ### Tabla Comparativa de servicios de computo y sus caracteristicas
 ![[Pasted image 20230302124021.png]]
 ### Cuando utilizar un servicio especifico? [Cual servicio Escoger](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)

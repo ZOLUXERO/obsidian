@@ -4,8 +4,3 @@
 ![[Pasted image 20230218163628.png]]
 
 DevOps:
-[[Redes]]
-[[Kubernetes]]
-[[Cloud]]
-[[Infra as code]]
-

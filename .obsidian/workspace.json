@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59b7074e7ec1d2db",
+        "id": "3301f850907cabde",
         "type": "tabs",
         "children": [
           {
-            "id": "0200ac5be6e3a5ee",
+            "id": "0c8ea1d84bef1b39",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -98,8 +98,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0200ac5be6e3a5ee",
+  "active": "0c8ea1d84bef1b39",
   "lastOpenFiles": [
+    "Devops.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Azure Function & Logic Apps.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
@@ -137,7 +138,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Azure SQL.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Pasted image 20230303175223.png",
     "Pasted image 20230303174919.png",
     "Pasted image 20230303174645.png",

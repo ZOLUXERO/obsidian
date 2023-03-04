@@ -9,7 +9,7 @@
 
 Distribuye el trafico sobre varios recursos, esto permite tener escalamiento horizontal(que es preferible al vertical) y alta disponibilidad.
 
-Si se distribuye los recursos en diferentes [[Zonas de disponibilidad]] se puede lograr una disponiblidad del 99,99% que es lo mas recomendado para aplicaciones importantes.
+==Si se distribuye los recursos en diferentes Zonas de disponibilidad se puede lograr una disponiblidad del 99,99%== que es lo mas recomendado para aplicaciones importantes.
 
 Esto se debe a que el load balancer automaticamente checkea el estado de los componentes de la aplicacion a los que esta conectado, si por ejemplo una de las VMs
 dejara de funcionar, automaticamente redirige el trafico a la que esta funcionando.

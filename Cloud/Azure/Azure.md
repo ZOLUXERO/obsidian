@@ -1,7 +1,7 @@
 **az-900 -> az-104 -> az-400**
 
 ==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
-
+==**USAR AZURE CLI**==
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 <font color="red">!IMPORTANTE</font>

@@ -19,12 +19,8 @@
             "id": "a560af2b8385443d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +109,14 @@
   },
   "active": "a560af2b8385443d",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
     "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
     "Cloud/Azure/Azure DevOps.md",
     "Pasted image 20230304112431.png",
     "Pasted image 20230304112219.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Pasted image 20230303175223.png",
     "Pasted image 20230303174919.png",
     "Pasted image 20230303174645.png",
@@ -153,7 +149,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Pasted image 20230303213636.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos/Bases de datos.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",

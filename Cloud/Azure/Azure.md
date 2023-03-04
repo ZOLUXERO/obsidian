@@ -1,7 +1,12 @@
 **az-900 -> az-104 -> az-400**
 
-==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
-**USAR AZURE CLI** o [AZURE CLOUD SHELL](https://youtu.be/8JHY0xPssb8?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=353)
+<font color="red">!IMPORTANTE</font>
+- **USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones)
+
+- **USAR AZURE CLI** o [AZURE CLOUD SHELL](https://youtu.be/8JHY0xPssb8?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=353)
+
+- USAR Azure Advisor **ofrece recomendaciones prácticas para ayudarlo a optimizar sus recursos de Azure en términos de confiabilidad, seguridad, excelencia operativa, rendimiento y costo** [Como usar Azure advisor](https://youtu.be/58_6MkB2znI?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=95)
+
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 <font color="red">!IMPORTANTE</font>

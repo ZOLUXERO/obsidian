@@ -84,11 +84,15 @@
             }
           },
           {
-            "id": "2ed490b82f2209cf",
+            "id": "8411306709964b5f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +192,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2ed490b82f2209cf",
+  "active": "8411306709964b5f",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Bloquear Recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
     "Pasted image 20230304231614.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Acceso basado en Rol.md",

@@ -1,0 +1,1 @@
+Resource tags es una forma de agregar tags a recursos de Azure, con estos tags se puede filtrar 

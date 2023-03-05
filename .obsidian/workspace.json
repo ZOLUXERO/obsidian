@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,14 +101,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf7c7d470c787b6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,20 +199,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db6d77014745d286",
+  "active": "947e902a51cf824d",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Gobernanza Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Pasted image 20230304234253.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Bloquear Recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Bloquear Recursos.md",
     "Pasted image 20230304231614.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
-    "Cloud/Azure/Azure.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Acceso basado en Rol.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Acceso basado en Rol.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
     "Pasted image 20230304222641.png",
@@ -226,7 +235,6 @@
     "Pasted image 20230304195554.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/ASG.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Pasted image 20230304171759.png",
     "Pasted image 20230304171634.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
@@ -237,7 +245,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion",
-    "imagenes"
+    "Cloud/Azure/Az-900 Fundamentals/Gestion"
   ]
 }

@@ -105,10 +105,53 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "4564b643bd7a6eff"
           }
         ],
         "currentTab": 8
+      },
+      {
+        "id": "b6e50f3bf6d0bda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6da0aa9d1f639b3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "4564b643bd7a6eff"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,11 +237,11 @@
   },
   "active": "db6d77014745d286",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
     "Pasted image 20230304234253.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Bloquear Recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
     "Pasted image 20230304231614.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Cloud/Azure/Azure.md",
@@ -229,7 +272,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Pasted image 20230304171759.png",
     "Pasted image 20230304171634.png",
-    "Pasted image 20230304171545.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

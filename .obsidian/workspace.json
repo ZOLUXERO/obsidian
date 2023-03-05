@@ -51,8 +51,24 @@
             "id": "70c23139788a1d10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad49eccb7ffe7145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -68,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +168,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "70c23139788a1d10",
+  "active": "ad49eccb7ffe7145",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
+    "Pasted image 20230304214742.png",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",
@@ -173,22 +196,16 @@
     "Pasted image 20230304171759.png",
     "Pasted image 20230304171634.png",
     "Pasted image 20230304171545.png",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
     "Cloud/Azure/Azure DevOps.md",
     "Pasted image 20230304112431.png",
     "Pasted image 20230304112219.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "Pasted image 20230303175223.png",
-    "Pasted image 20230303174919.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Azure Storage Account.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
     "Devops.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Azure Function & Logic Apps.md",
     "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Serverless computing.md",
-    "Cloud/Azure/Az-900 Fundamentals/Categorias de servicios cloud/Servicios cloud.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Azure Functions.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

@@ -1,4 +1,7 @@
-**az-900 -> az-104 -> az-400**
+**az-900 -> az-104 -> az-400** 
+Fuentes de estudio:
+- [AZ-900](https://marczak.io/az-900/#ep00)
+- [AZ-900 videos](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=1)
 
 <font color="red">!IMPORTANTE</font>
 - **USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones)

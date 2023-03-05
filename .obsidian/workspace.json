@@ -135,8 +135,12 @@
             "id": "2042fdc8a7fcda62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -193,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "presupuesto",
+                "query": "de que se encarga ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +206,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

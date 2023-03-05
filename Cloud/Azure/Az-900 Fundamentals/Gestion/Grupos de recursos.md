@@ -12,7 +12,7 @@ Resource group es la agrupacion de recursos relacionados logicamente.
 ==**USAR GRUPOS DE RECURSOS!!!** (para agrupar aplicaciones y sus configuraciones) ==
 **SE PUEDEN DAR PERMISOS A UN USUARIO A CIERTO GRUPO** (un repo, un pipeline, control de acceso a grupos por rol)
 **SE PUEDEN CREAR POLITICAS A UN GRUPO** (que un rol pueda crear solo ciertas cosas)
-**PUEDO APLICAR UN PRESUPUESTO A UN GRUPO** (que solo se pueda gastar tanto dinero en cierto grupo)
+[**PUEDO APLICAR UN PRESUPUESTO A UN GRUPO**](https://youtu.be/7w88KBVesPI?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=83) (que solo se pueda gastar tanto dinero en cierto grupo)
 # Se puede usar ARM o Terraform para setear Grupos de recursos
 
 Cuando creo cualquier recurso

@@ -65,10 +65,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7c03363690783aca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -84,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,21 +175,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad49eccb7ffe7145",
+  "active": "7c03363690783aca",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Acceso basado en Rol.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
     "Pasted image 20230304222641.png",
     "Pasted image 20230304222615.png",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Security Center.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Azure DevOps.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
     "Pasted image 20230304214742.png",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",

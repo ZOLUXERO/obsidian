@@ -114,9 +114,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6d9d81215ba99d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Azure policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -174,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Azure policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +212,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "947e902a51cf824d",
+  "active": "6d9d81215ba99d6b",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Azure policy.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Gobernanza Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",

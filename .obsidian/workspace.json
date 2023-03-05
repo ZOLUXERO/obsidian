@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,10 +170,10 @@
   },
   "active": "ad49eccb7ffe7145",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
     "Pasted image 20230304222641.png",
     "Pasted image 20230304222615.png",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Security Center.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",

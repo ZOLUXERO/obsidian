@@ -4,10 +4,13 @@
 - Las politicas no checkean los permisos de usuario las politicas asumen que el usuario ya tiene permisos si llego hasta aca
 - Se admiten políticas **integradas** y **personalizadas**
 - Se permiten **Iniciativas** de política: **grupo** politicas definidas
+- **Definición** de política : define lo que hace una politica
+	-   Defina el **efecto** que tendra en el recurso(denegar, auditar, agregar, modificar, etc.)
 - **Asignación** de política: asignación de una definición/iniciativa de política a un ámbito
     -   Los alcances se pueden asignar a
         -   grupos de gestión
         -   suscripciones
         -   grupos de recursos
         -   recursos
+- Esto se valida al momento de la creación o **actualización** **de recursos** y al momento de actualizar usar **tareas de remediación**
 ![[Pasted image 20230305150148.png]]

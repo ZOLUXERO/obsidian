@@ -41,4 +41,6 @@ Por que usar la nube?
 - Si quiero dejar de usarlo lo elimino
 - Capacidad de computacion enorme
 - Se usa en demanda (en un par de minutos se puede escalar todo facilmente y rapido)
+# [Que servicio escoger y como debugear]([Choose an Azure compute service - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree))
 ![[Pasted image 20230302125048.png]]
+![[Pasted image 20230305155141.png]]

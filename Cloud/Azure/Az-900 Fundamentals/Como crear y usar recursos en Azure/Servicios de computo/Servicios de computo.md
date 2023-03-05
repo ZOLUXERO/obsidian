@@ -15,5 +15,6 @@ Compute services es una categoria de servicios en azure que permite correr aplic
 - [[AKS]](PaaS): Cuando necesite alojar y orquestar una gran cantidad de contenedores, altamente escalable y personalizable
 - [[App Services]](PaaS): si necesita alojar aplicaciones web de manera rapida y sencilla esta es la mejor opcion
 - Azure Functions (PaaS) (Función como servicio) (Serverless): micro/nanoservicios, excelente precio basado en el consumo, fácil de comenzar *(No deberia usar Azure functions para crear servicios o aplicaciones web de ningun tamaño pero si sirven como un buen complemento a estos)
-
+# [Que servicio escoger y como debugear]([Choose an Azure compute service - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree))
 ![[Pasted image 20230302125048.png]]
+![[Pasted image 20230305155207.png]]

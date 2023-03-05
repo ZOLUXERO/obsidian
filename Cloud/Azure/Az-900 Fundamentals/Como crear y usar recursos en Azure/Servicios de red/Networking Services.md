@@ -9,5 +9,6 @@ Estos son los servicios que nos permiten:
 [[CDN]]
 [[NSG]]
 [[ASG]]
+[[User Defined Routes(UDR)]]
 Para aplicaciones web es mejor utilizar [[Application Gateway]] para manejar el trafico que viene de la web y [[Load Balancer]] para manejar el trafico dentro de los recursos de azure.
 ![[Pasted image 20230303170126.png]]

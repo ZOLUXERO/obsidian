@@ -6,3 +6,4 @@ Todos los recursos en azure se pueden representar con un template json conocido 
 [[Grupos de recursos]]
 [[Azure Resource Manager(ARM)]] -> Infraestructura como codigo
 [[Azure Directorio Activo]]
+[[Security Center]]

@@ -15,7 +15,7 @@ mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft
 	[[Servicios cloud]]
 	[[Arquitectura Azure]]
 	[[Como crear servicios]]
-	[[Gestion de recursos]]
+	[[Gestion y Seguridad]]
 	[[Azure Marketplace]]
 	[[Azure DevOps]]
 

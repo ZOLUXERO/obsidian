@@ -63,12 +63,8 @@
             "id": "ad49eccb7ffe7145",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Azure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,13 +165,13 @@
   },
   "active": "ad49eccb7ffe7145",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
+    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Directorio Activo.md",
     "Pasted image 20230304214742.png",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Azure Firewall.md",

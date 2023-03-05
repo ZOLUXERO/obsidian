@@ -75,8 +75,24 @@
             "id": "7c03363690783aca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ed490b82f2209cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -92,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +192,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7c03363690783aca",
+  "active": "2ed490b82f2209cf",
   "lastOpenFiles": [
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Acceso basado en Rol.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Bloquear Recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+    "Pasted image 20230304231614.png",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
+    "Cloud/Azure/Azure.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Acceso basado en Rol.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Azure Resource Manager(ARM).md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
@@ -187,15 +209,12 @@
     "Pasted image 20230304222641.png",
     "Pasted image 20230304222615.png",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Security Center.md",
-    "Cloud/Azure/Azure.md",
     "Cloud/Azure/Azure DevOps.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "Pasted image 20230304214742.png",
     "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Azure Firewall.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Pasted image 20230304212324.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
@@ -210,9 +229,6 @@
     "Pasted image 20230304171759.png",
     "Pasted image 20230304171634.png",
     "Pasted image 20230304171545.png",
-    "Pasted image 20230304112431.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Azure Storage Account.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

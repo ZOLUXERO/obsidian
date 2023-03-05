@@ -40,3 +40,4 @@ Por que usar la nube?
 - Si quiero dejar de usarlo lo elimino
 - Capacidad de computacion enorme
 - Se usa en demanda (en un par de minutos se puede escalar todo facilmente y rapido)
+![[Pasted image 20230302125048.png]]

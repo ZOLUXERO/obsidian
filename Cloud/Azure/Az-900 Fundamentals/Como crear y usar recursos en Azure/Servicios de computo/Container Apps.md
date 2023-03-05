@@ -1,0 +1,1 @@
+Container apps Es muy parecido a [[AKS]] en donde difiere es que no tiene una API para ud manejar el cluster donde iran alojados los contenedores de la aplicacion Azure se encarga de manejar la infraestructura y del autoescalado de la aplicacion

@@ -3,3 +3,4 @@ La gobernanza **proporciona mecanismos y procesos para mantener el control de l
 [[Acceso basado en Rol]]
 [[Bloquear Recursos]]
 [[Resource Tags]]
+[[Azure policy]]

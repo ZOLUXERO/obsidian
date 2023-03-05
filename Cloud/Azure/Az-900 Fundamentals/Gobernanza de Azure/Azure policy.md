@@ -3,7 +3,7 @@
 - Azure policy valida propiedades de azure para tomar decisiones ej de una politica: una aplicacion que se ejecuta en una sola region.
 - Las politicas no checkean los permisos de usuario las politicas asumen que el usuario ya tiene permisos si llego hasta aca
 - Se admiten políticas **integradas** y **personalizadas**
-- Se permiten **Iniciativas** de política: **grupo** politicas definidas
+- Las **Iniciativas** de políticas permiten agrupar definiciones de politicas
 - **Definición** de política : define lo que hace una politica
 	-   Defina el **efecto** que tendra en el recurso(denegar, auditar, agregar, modificar, etc.)
 - **Asignación** de política: asignación de una definición/iniciativa de política a un ámbito

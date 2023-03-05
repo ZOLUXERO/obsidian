@@ -9,6 +9,8 @@
 
 - Si se tiene autoescalado en los recursos de azure seria buena idea usar Azure DDoS protection asi previene costos por autoescalado debido a ataques maliciosos **(Por defecto todos los servicios de Azure estan protegidos por un plan basico de proteccion contra ataques DDoS)**
 
+##### [Marco de adopcion de la nube para Azure](https://youtu.be/d6usiB4MKq8?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=1) Cuando, como y que estrategias se deberian usar para migrar la infraestructura de una organizacion a Azure
+
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 <font color="red">!IMPORTANTE</font>

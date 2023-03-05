@@ -63,8 +63,12 @@
             "id": "ad49eccb7ffe7145",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +170,9 @@
   },
   "active": "ad49eccb7ffe7145",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Gestion/Key Vault.md",
+    "Pasted image 20230304222641.png",
+    "Pasted image 20230304222615.png",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Security Center.md",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
@@ -195,12 +203,8 @@
     "Pasted image 20230304171634.png",
     "Pasted image 20230304171545.png",
     "Pasted image 20230304112431.png",
-    "Pasted image 20230304112219.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
-    "Pasted image 20230303175223.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Azure Storage Account.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento/Servicios de Almacenamiento.md",
-    "Devops.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

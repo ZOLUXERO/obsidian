@@ -87,12 +87,8 @@
             "id": "2ed490b82f2209cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -166,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gestion/Gestion y Seguridad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

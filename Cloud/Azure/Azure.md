@@ -7,6 +7,8 @@
 
 - USAR Azure Advisor **ofrece recomendaciones prácticas para ayudarlo a optimizar sus recursos de Azure en términos de confiabilidad, seguridad, excelencia operativa, rendimiento y costo** [Como usar Azure advisor](https://youtu.be/58_6MkB2znI?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=95)
 
+- Si se tiene autoescalado en los recursos de azure seria buena idea usar Azure DDoS protection asi previene costos por autoescalado debido a ataques maliciosos **(Por defecto todos los servicios de Azure estan protegidos por un plan basico de proteccion contra ataques DDoS)**
+
 mapa de infraestuctura azure: [Azure global infrastructure experience (microsoft.com)](https://infrastructuremap.microsoft.com/explore)****
 
 <font color="red">!IMPORTANTE</font>

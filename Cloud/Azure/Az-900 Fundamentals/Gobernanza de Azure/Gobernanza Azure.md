@@ -4,3 +4,4 @@ La gobernanza **proporciona mecanismos y procesos para mantener el control de l
 [[Bloquear Recursos]]
 [[Resource Tags]]
 [[Azure policy]]
+[[Planos de Azure]]

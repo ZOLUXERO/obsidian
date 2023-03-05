@@ -1,3 +1,4 @@
+### [Como usar Acceso basado en rol](https://youtu.be/4v7ffXxOnwU?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=397)
 En todos los recursos de Azure se le puede asignar permisos a un usuario dependiendo de su rol
 **El rol** (definición de rol) es una **colección de acciones** que **la identidad asignada** podrá realizar.
 -   Sistema de autorización integrado en Azure Resource Manager (ARM)

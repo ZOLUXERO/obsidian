@@ -1,4 +1,5 @@
 ### [Como crear un Virtual Network](https://youtu.be/5NMcM4zJPM4?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&t=265)
+[Ejercicio: creación de una red virtual de Azure - Training | Microsoft Learn](https://learn.microsoft.com/es-es/training/modules/configure-network-for-azure-virtual-machines/3-exercise-create-azure-virtual-network)
 Emula la infraestructura de una red
 Permite crear, manejar, monitorear y asegurar conectividad entre recursos de azure.
 ### Caracteristicas

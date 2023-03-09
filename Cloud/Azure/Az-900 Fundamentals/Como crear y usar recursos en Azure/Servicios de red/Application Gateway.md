@@ -1,4 +1,5 @@
 ### Cifrado del tráfico de red de un extremo a otro con Azure Application Gateway
+<font color="red">!IMPORTANTE</font> [Documentacion completa de practica](https://learn.microsoft.com/es-es/training/modules/end-to-end-encryption-with-app-gateway/)
 Configurar certificados de Application Gateway v1, v2 y configuracion de HTTP
 [Configuración de grupos de back-end para el cifrado - Training | Microsoft Learn](https://learn.microsoft.com/es-es/training/modules/end-to-end-encryption-with-app-gateway/3-configure-backend-pools-for-encryption)
 

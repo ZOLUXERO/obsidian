@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
+                "file": "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +105,13 @@
   },
   "active": "cab82f289a047772",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
     "Cloud/Azure/Azure.md",
     "Cloud/Azure/Azure DevOps.md",
     "Devops.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Virtual Network.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Como crear servicios.md",
     "imagenes/Pasted image 20230305160335.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
@@ -131,7 +133,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure",
     "imagenes/Pasted image 20230304234253.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Bloquear Recursos.md",
     "imagenes/Pasted image 20230304231614.png",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Acceso basado en Rol.md",
@@ -141,7 +142,6 @@
     "imagenes/Pasted image 20230304222641.png",
     "Pasted image 20230304222615.png",
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Security Center.md",
-    "Cloud/Azure/Az-900 Fundamentals/Azure Marketplace.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

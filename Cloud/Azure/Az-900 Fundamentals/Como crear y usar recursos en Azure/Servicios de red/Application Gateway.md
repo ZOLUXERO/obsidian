@@ -1,5 +1,6 @@
 ### Cifrado del tráfico de red de un extremo a otro con Azure Application Gateway
-
+Configurar certificados de Application Gateway v1 y v2
+[Configuración de grupos de back-end para el cifrado - Training | Microsoft Learn](https://learn.microsoft.com/es-es/training/modules/end-to-end-encryption-with-app-gateway/3-configure-backend-pools-for-encryption)
 
 Si se habla de distribucion de trafico web(HTTP) usualmente la mejor opcion es usar Application Gateway esto es por que el application gateway ==esta diseñado para soportar trafico web== tiene mas caracteristicas que permiten a los usuarios manejar de mejor manera su trafico web
 

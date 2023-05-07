@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "d61daa39935502db",
+        "id": "7898e268bdeed234",
         "type": "tabs",
         "children": [
           {
-            "id": "cab82f289a047772",
+            "id": "72d8f88bd9a8ae38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3785a24212ddaec5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +63,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "799fae280949ce36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +117,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cab82f289a047772",
+  "active": "3785a24212ddaec5",
   "lastOpenFiles": [
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
+    "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Planos de Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Gobernanza Azure.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Bloquear Recursos.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Azure policy.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Acceso basado en Rol.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/User Defined Routes(UDR).md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/ASG.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Azure Firewall.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
@@ -135,7 +150,6 @@
     "imagenes/Pasted image 20230305155141.png",
     "Cloud/Azure/Costos.md",
     "imagenes/Pasted image 20230305153725.png",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/AKS.md",
     "imagenes/Pasted image 20230305152034.png",
     "imagenes/Pasted image 20230305150148.png",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure",

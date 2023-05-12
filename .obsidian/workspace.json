@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7898e268bdeed234",
+        "id": "2972a4011f6d7f83",
         "type": "tabs",
         "children": [
           {
-            "id": "72d8f88bd9a8ae38",
+            "id": "5e04fe35c5e8b9eb",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3785a24212ddaec5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3785a24212ddaec5",
+  "active": "5e04fe35c5e8b9eb",
   "lastOpenFiles": [
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",

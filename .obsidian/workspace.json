@@ -11,8 +11,15 @@
             "id": "5e04fe35c5e8b9eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -170.9655121145937,
+                  "y": -66.11788853442107,
+                  "zoom": 0.5
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +116,7 @@
   },
   "active": "5e04fe35c5e8b9eb",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Planos de Azure.md",
@@ -137,7 +146,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "imagenes/Pasted image 20230305155207.png",
     "imagenes/Pasted image 20230305155141.png",
-    "Cloud/Azure/Costos.md",
     "imagenes/Pasted image 20230305153725.png",
     "imagenes/Pasted image 20230305152034.png",
     "imagenes/Pasted image 20230305150148.png",

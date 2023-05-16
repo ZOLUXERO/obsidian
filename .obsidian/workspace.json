@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "620c9c6694a15d51",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5e04fe35c5e8b9eb",
+  "active": "620c9c6694a15d51",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",

@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2972a4011f6d7f83",
+        "id": "079a56ebb0fff67f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e04fe35c5e8b9eb",
+            "id": "46adc49033d347cd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -170.9655121145937,
-                  "y": -66.11788853442107,
-                  "zoom": 0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "620c9c6694a15d51",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +106,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "620c9c6694a15d51",
+  "active": "46adc49033d347cd",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Untitled 1.canvas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Planos de Azure.md",

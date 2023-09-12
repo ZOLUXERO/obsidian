@@ -16,13 +16,24 @@
                 "file": "Untitled.canvas",
                 "viewState": {
                   "x": -115,
-                  "y": 153,
+                  "y": 711,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "33fe0a53eade16dc",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram.svg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,24 +68,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "33fe0a53eade16dc",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 1124.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "733db07cedf567ca",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +116,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "799fae280949ce36",
+  "active": "33fe0a53eade16dc",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "test",
     "Devops.md",
     "Untitled 1.canvas",
     "Kubernetes/Arquitectura/Controller Manager.md",
@@ -164,7 +165,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion"
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo"
   ]
 }

@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "52089b816c6355d8",
+        "id": "70a788ef3f5701c0",
         "type": "tabs",
         "children": [
           {
-            "id": "af95ec0aa3c8b75f",
+            "id": "8e9536d1ac58c653",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "8ce706e8f77bf964",
+            "id": "0c9b7a8421fed44d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "release-notes",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "currentVersion": "1.4.12"
               }
             }
           }
@@ -45,22 +40,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "947e902a51cf824d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "897904e49a143604",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "de que se encarga ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +61,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b1fdc995f28c84c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 248.5
   },
   "right": {
     "id": "733db07cedf567ca",
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +118,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ce706e8f77bf964",
+  "active": "0c9b7a8421fed44d",
   "lastOpenFiles": [
-    "Kubernetes/Arquitectura/Controller Manager.md",
+    "Untitled 1.canvas",
+    "Untitled Diagram.svg",
     "Untitled.canvas",
+    "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Contenedores.md",
     "Kubernetes/Arquitectura/Arquitectura.md",
@@ -136,7 +133,6 @@
     "Kubernetes/Arquitectura/etcd.md",
     "Kubernetes/Arquitectura/Kube-proxy.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Application Gateway.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Resource Tags.md",
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Planos de Azure.md",
@@ -163,7 +159,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure",
     "imagenes/Pasted image 20230304234253.png",
     "imagenes/Pasted image 20230304231614.png",
-    "imagenes/Pasted image 20230304222641.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios machine learning",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",

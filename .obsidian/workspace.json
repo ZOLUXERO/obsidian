@@ -15,14 +15,25 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -177,
-                  "y": 124,
-                  "zoom": 0
+                  "x": -115,
+                  "y": 60,
+                  "zoom": 0.5
                 }
               }
             }
+          },
+          {
+            "id": "59a73a5b47a7b3fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,13 +123,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e9536d1ac58c653",
+  "active": "59a73a5b47a7b3fe",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md",
+    "Excalidraw",
+    "Untitled Diagram.svg",
     "test",
     "Devops.md",
     "Untitled 1.canvas",
@@ -146,7 +160,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/NSG.md",
     "imagenes/Pasted image 20230218163558.png",
     "imagenes/Pasted image 20230305160335.png",
     "imagenes/Pasted image 20230305155207.png",
@@ -163,7 +176,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo"
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red"
   ]
 }

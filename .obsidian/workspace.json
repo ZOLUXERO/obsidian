@@ -19,9 +19,11 @@
             "id": "8ce706e8f77bf964",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Kubernetes/Arquitectura/Controller Manager.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Arquitectura/Controller Manager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +122,10 @@
   },
   "active": "8ce706e8f77bf964",
   "lastOpenFiles": [
+    "Kubernetes/Arquitectura/Control plane components.md",
+    "Kubernetes/Arquitectura/Contenedores.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Kubernetes/Arquitectura/Kube-proxy.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -146,9 +153,6 @@
     "Cloud/Azure/Azure DevOps.md",
     "imagenes/Pasted image 20230305160335.png",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Maquinas virtuales(VMs).md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de computo/Servicios de computo.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de recursos.md",
-    "Cloud/Azure/Az-900 Fundamentals/Gestion/Grupos de Administracion.md",
     "imagenes/Pasted image 20230305155207.png",
     "imagenes/Pasted image 20230305155141.png",
     "imagenes/Pasted image 20230305153725.png",

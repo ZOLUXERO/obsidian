@@ -21,19 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "33fe0a53eade16dc",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,6 +57,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c240f3feb81acc90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +115,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33fe0a53eade16dc",
+  "active": "8e9536d1ac58c653",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Untitled Diagram.svg",
+    "Untitled.canvas",
     "test",
     "Devops.md",
     "Untitled 1.canvas",

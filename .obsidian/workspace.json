@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "8ce706e8f77bf964",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af95ec0aa3c8b75f",
+  "active": "8ce706e8f77bf964",
   "lastOpenFiles": [
     "Untitled 2.canvas",
     "Untitled.canvas",

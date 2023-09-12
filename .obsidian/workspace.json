@@ -11,17 +11,24 @@
             "id": "8e9536d1ac58c653",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -115,
+                  "y": 60,
+                  "zoom": 0
+                }
+              }
             }
           },
           {
-            "id": "0c9b7a8421fed44d",
+            "id": "b1fdc995f28c84c0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "diagram-edit",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -63,7 +70,7 @@
             }
           },
           {
-            "id": "b1fdc995f28c84c0",
+            "id": "1af3a3e9cb02db1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled Diagram.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,11 +126,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c9b7a8421fed44d",
+  "active": "b1fdc995f28c84c0",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled Diagram.svg",
     "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Untitled 1.canvas",
     "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Contenedores.md",

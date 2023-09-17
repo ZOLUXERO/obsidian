@@ -26,9 +26,11 @@
             "id": "59a73a5b47a7b3fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md"
+                "file": "Infraestructura como codigo/Terraform/Terraform.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md",
+                "file": "Infraestructura como codigo/Terraform/Terraform.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +131,13 @@
   },
   "active": "59a73a5b47a7b3fe",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Infraestructura como codigo/Infra as code.md",
+    "Infraestructura como codigo/Terraform/Terraform.md",
+    "Kubernetes/Comandos/Kubectl Comandos.md",
     "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Untitled.canvas",
     "Excalidraw",
     "Untitled Diagram.svg",
     "test",
@@ -139,7 +146,6 @@
     "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Control plane components.md",
     "Kubernetes/Arquitectura/Contenedores.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
     "Kubernetes/Arquitectura/kubelet.md",
     "Kubernetes/Arquitectura/Kube-Scheduler.md",
     "Kubernetes/Arquitectura/Kube-apiserver.md",
@@ -157,9 +163,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/ASG.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Azure Firewall.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/DDoS Protection.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Load Balancer.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Networking Services.md",
     "imagenes/Pasted image 20230218163558.png",
     "imagenes/Pasted image 20230305160335.png",
     "imagenes/Pasted image 20230305155207.png",

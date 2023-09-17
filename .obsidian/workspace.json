@@ -28,14 +28,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestructura como codigo/Terraform/Terraform.md",
+                "file": "Kubernetes/Core concepts yml/Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "08bcc35607146ba9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Kubernetes/Core concepts yml/Drawing 2023-09-16 21.33.58.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestructura como codigo/Terraform/Terraform.md",
+                "file": "Kubernetes/Core concepts yml/Drawing 2023-09-16 21.33.58.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,19 +139,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59a73a5b47a7b3fe",
+  "active": "08bcc35607146ba9",
   "lastOpenFiles": [
-    "Infraestructura como codigo/Infra as code.md",
+    "Kubernetes/Core concepts yml/Objetos.md",
+    "Kubernetes/Core concepts yml/Drawing 2023-09-16 21.33.58.excalidraw.md",
+    "Kubernetes/Arquitectura/Arquitectura.md",
+    "Devops.md",
+    "KCNA",
     "Infraestructura como codigo/Terraform/Terraform.md",
+    "Infraestructura como codigo/Infra as code.md",
     "Kubernetes/Comandos/Kubectl Comandos.md",
     "Excalidraw/Drawing 2023-09-12 13.28.29.excalidraw.md",
     "Kubernetes/Kubernetes.md",
-    "Kubernetes/Arquitectura/Arquitectura.md",
     "Untitled.canvas",
     "Excalidraw",
     "Untitled Diagram.svg",
     "test",
-    "Devops.md",
     "Untitled 1.canvas",
     "Kubernetes/Arquitectura/Controller Manager.md",
     "Kubernetes/Arquitectura/Control plane components.md",
@@ -161,8 +174,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Gobernanza de Azure/Acceso basado en Rol.md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/User Defined Routes(UDR).md",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/ASG.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/Azure Firewall.md",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red/CDN.md",
     "imagenes/Pasted image 20230218163558.png",
     "imagenes/Pasted image 20230305160335.png",
     "imagenes/Pasted image 20230305155207.png",
@@ -178,7 +189,6 @@
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios Big Data",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios IOT",
     "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de bases de datos",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento",
-    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de red"
+    "Cloud/Azure/Az-900 Fundamentals/Como crear y usar recursos en Azure/Servicios de Almacenamiento"
   ]
 }
